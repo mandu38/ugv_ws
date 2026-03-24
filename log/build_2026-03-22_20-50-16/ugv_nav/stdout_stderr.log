@@ -1,0 +1,63 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found nav2_bringup: 1.1.20 (/opt/ros/humble/share/nav2_bringup/cmake)
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chotaehyun/ugv_ws/build/ugv_nav
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/bringup_launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/bringup_launch_cartographer.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/cartographer_localization.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/localization_launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/nav2_bringup.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_rtabmap.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/rtabmap_localization_launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/slam_nav.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/amcl_dwa.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/amcl_teb.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/emcl_dwa.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/emcl_teb.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/rtabmap_dwa.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/rtabmap_teb.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/slam_nav.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map.pbstream
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map.pgm
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map_server_params.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/rviz/view_nav_2d.rviz
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/rviz/view_nav_3d.rviz
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ament_index/resource_index/package_run_dependencies/ugv_nav
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ament_index/resource_index/parent_prefix_path/ugv_nav
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/ament_prefix_path.sh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/ament_prefix_path.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/path.sh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/path.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.sh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.zsh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/package.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ament_index/resource_index/packages/ugv_nav
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/cmake/ugv_navConfig.cmake
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/cmake/ugv_navConfig-version.cmake
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/package.xml

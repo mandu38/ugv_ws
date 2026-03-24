@@ -1,0 +1,7 @@
+{
+  "package_name": "ugv_interface",
+  "non_idl_tuples": [
+    "/home/chotaehyun/ugv_ws/src/ugv_main/ugv_interface:srv/MapSave.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_main/ugv_interface:action/Behavior.action"
+  ]
+}

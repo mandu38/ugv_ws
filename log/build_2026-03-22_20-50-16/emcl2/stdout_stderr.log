@@ -1,0 +1,94 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake_auto: 1.3.14 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0mIn this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/emcl2` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.[0m
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/chotaehyun/ugv_ws/src/ugv_else/emcl2_ros2/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chotaehyun/ugv_ws/build/emcl2
+[ 11%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Mcl.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/ExpResetMcl2.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Pose.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Particle.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/emcl2_node.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/OdomModel.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Scan.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/LikelihoodFieldMap.cpp.o[0m
+[100%] [32m[1mLinking CXX executable emcl2_node[0m
+[100%] Built target emcl2_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/lib/emcl2/test.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/lib/emcl2/test_gui.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/ExpResetMcl2.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/LikelihoodFieldMap.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Mcl.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/OdomModel.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Particle.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Pose.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Scan.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/emcl2_node.h
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/lib/emcl2/emcl2_node
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/config/emcl2.param.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/config/emcl2_quick_start.param.yaml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/launch/emcl2.launch.py
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/demo.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/test.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/test.launch.xml
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/test_gui.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/ament_index/resource_index/package_run_dependencies/emcl2
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/ament_index/resource_index/parent_prefix_path/emcl2
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/ament_prefix_path.sh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/path.sh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/path.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.bash
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.sh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.zsh
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/package.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/ament_index/resource_index/packages/emcl2
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/emcl2Config.cmake
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/emcl2Config-version.cmake
+-- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/package.xml

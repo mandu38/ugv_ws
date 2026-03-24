@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing ugv_chat_ai.egg-info/PKG-INFO
+writing dependency_links to ugv_chat_ai.egg-info/dependency_links.txt
+writing entry points to ugv_chat_ai.egg-info/entry_points.txt
+writing requirements to ugv_chat_ai.egg-info/requires.txt
+writing top-level names to ugv_chat_ai.egg-info/top_level.txt
+reading manifest file 'ugv_chat_ai.egg-info/SOURCES.txt'
+writing manifest file 'ugv_chat_ai.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/chotaehyun/ugv_ws/install/ugv_chat_ai/lib/python3.10/site-packages/ugv-chat-ai.egg-link (link to .)
+Installing app script to /home/chotaehyun/ugv_ws/install/ugv_chat_ai/lib/ugv_chat_ai
+
+Installed /home/chotaehyun/ugv_ws/build/ugv_chat_ai
+running symlink_data

@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/ugv_chat_ai
+ugv_chat_ai/__init__.py
+ugv_chat_ai/app.py
+ugv_chat_ai.egg-info/PKG-INFO
+ugv_chat_ai.egg-info/SOURCES.txt
+ugv_chat_ai.egg-info/dependency_links.txt
+ugv_chat_ai.egg-info/entry_points.txt
+ugv_chat_ai.egg-info/requires.txt
+ugv_chat_ai.egg-info/top_level.txt
+ugv_chat_ai.egg-info/zip-safe

@@ -1,0 +1,3 @@
+[console_scripts]
+patrol_waypoint_node = my_waver_app.patrol_waypoint_node:main
+

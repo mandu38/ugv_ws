@@ -1,0 +1,26 @@
+[0.229s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_slam -- -j16 -l16
+[1.367s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_slam -- -j16 -l16
+[1.368s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_slam
+[1.468s] -- Install configuration: ""
+[1.468s] -- Execute custom install script
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/launch/cartographer.launch.py
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/launch/gmapping.launch.py
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/launch/rtabmap_rgbd.launch.py
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/rviz/view_slam_2d.rviz
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/rviz/view_slam_3d.rviz
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ament_index/resource_index/package_run_dependencies/ugv_slam
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ament_index/resource_index/parent_prefix_path/ugv_slam
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/environment/ament_prefix_path.sh
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/environment/ament_prefix_path.dsv
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/environment/path.sh
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/environment/path.dsv
+[1.468s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/local_setup.bash
+[1.469s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/local_setup.sh
+[1.469s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/local_setup.zsh
+[1.469s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/local_setup.dsv
+[1.469s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/package.dsv
+[1.469s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ament_index/resource_index/packages/ugv_slam
+[1.470s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/cmake/ugv_slamConfig.cmake
+[1.470s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/cmake/ugv_slamConfig-version.cmake
+[1.470s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_slam/share/ugv_slam/package.xml
+[1.555s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_slam

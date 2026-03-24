@@ -1,0 +1,23 @@
+[1.702s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_vision': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_vision/build --no-deps symlink_data
+[1.975s] running develop
+[2.159s] running egg_info
+[2.160s] writing ugv_vision.egg-info/PKG-INFO
+[2.160s] writing dependency_links to ugv_vision.egg-info/dependency_links.txt
+[2.161s] writing entry points to ugv_vision.egg-info/entry_points.txt
+[2.161s] writing requirements to ugv_vision.egg-info/requires.txt
+[2.161s] writing top-level names to ugv_vision.egg-info/top_level.txt
+[2.162s] reading manifest file 'ugv_vision.egg-info/SOURCES.txt'
+[2.162s] writing manifest file 'ugv_vision.egg-info/SOURCES.txt'
+[2.163s] running build_ext
+[2.164s] Creating /home/chotaehyun/ugv_ws/install/ugv_vision/lib/python3.10/site-packages/ugv-vision.egg-link (link to .)
+[2.164s] Installing apriltag_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] Installing apriltag_track_0 script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] Installing apriltag_track_1 script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] Installing apriltag_track_2 script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] Installing color_track script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] Installing gesture_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] Installing kcf_track script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[2.165s] 
+[2.165s] Installed /home/chotaehyun/ugv_ws/build/ugv_vision
+[2.165s] running symlink_data
+[2.199s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_vision' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_vision/build --no-deps symlink_data

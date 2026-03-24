@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating ugv_web_app.egg-info
+writing ugv_web_app.egg-info/PKG-INFO
+writing dependency_links to ugv_web_app.egg-info/dependency_links.txt
+writing entry points to ugv_web_app.egg-info/entry_points.txt
+writing requirements to ugv_web_app.egg-info/requires.txt
+writing top-level names to ugv_web_app.egg-info/top_level.txt
+writing manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+reading manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+writing manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/chotaehyun/ugv_ws/install/ugv_web_app/lib/python3.10/site-packages/ugv-web-app.egg-link (link to .)
+
+Installed /home/chotaehyun/ugv_ws/build/ugv_web_app
+running symlink_data
+creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index
+creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index/resource_index
+creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index/resource_index/packages
+symbolically linking /home/chotaehyun/ugv_ws/build/ugv_web_app/resource/ugv_web_app -> /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index/resource_index/packages
+symbolically linking /home/chotaehyun/ugv_ws/build/ugv_web_app/package.xml -> /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ugv_web_app
+creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ugv_web_app/launch
+symbolically linking /home/chotaehyun/ugv_ws/build/ugv_web_app/launch/bringup.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ugv_web_app/launch

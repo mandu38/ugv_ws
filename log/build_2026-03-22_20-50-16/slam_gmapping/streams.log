@@ -1,0 +1,98 @@
+[0.058s] Invoking command in '/home/chotaehyun/ugv_ws/build/slam_gmapping': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/slam_gmapping
+[2.404s] -- The C compiler identification is GNU 11.4.0
+[2.404s] -- The CXX compiler identification is GNU 11.4.0
+[2.405s] -- Detecting C compiler ABI info
+[2.405s] -- Detecting C compiler ABI info - done
+[2.405s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.405s] -- Detecting C compile features
+[2.405s] -- Detecting C compile features - done
+[2.405s] -- Detecting CXX compiler ABI info
+[2.405s] -- Detecting CXX compiler ABI info - done
+[2.405s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.405s] -- Detecting CXX compile features
+[2.405s] -- Detecting CXX compile features - done
+[2.405s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.406s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.406s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.406s] [0m -fuse-ld=lld -Wl,--disable-new-dtags[0m
+[2.488s] -- Found std_msgs: 4.9.1 (/opt/ros/humble/share/std_msgs/cmake)
+[2.643s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.661s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.687s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.722s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.768s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.832s] -- Found nav_msgs: 4.9.1 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.901s] -- Found tf2: 0.25.19 (/opt/ros/humble/share/tf2/cmake)
+[2.940s] -- Found tf2_ros: 0.25.19 (/opt/ros/humble/share/tf2_ros/cmake)
+[3.133s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.145s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.506s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.638s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.780s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.808s] -- Looking for pthread.h
+[4.089s] -- Looking for pthread.h - found
+[4.089s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.391s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.395s] -- Found Threads: TRUE  
+[4.730s] -- Found tf2_geometry_msgs: 0.25.19 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[4.772s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[4.775s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[4.775s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.785s] -- Found sensor_msgs: 4.9.1 (/opt/ros/humble/share/sensor_msgs/cmake)
+[4.822s] -- Found visualization_msgs: 4.9.1 (/opt/ros/humble/share/visualization_msgs/cmake)
+[4.857s] -- Found openslam_gmapping: 0.1.2 (/home/chotaehyun/ugv_ws/install/openslam_gmapping/share/openslam_gmapping/cmake)
+[4.867s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.081s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.082s] -- Configured cppcheck include dirs: /home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping/include
+[5.083s] -- Configured cppcheck exclude dirs and/or files: 
+[5.087s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.088s] -- Added test 'lint_cmake' to check CMake code style
+[5.090s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.094s] -- Added test 'uncrustify' to check C / C++ code style
+[5.094s] -- Configured uncrustify additional arguments: 
+[5.098s] -- Added test 'xmllint' to check XML markup files
+[5.102s] -- Configuring done
+[5.130s] -- Generating done
+[5.140s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/slam_gmapping
+[5.176s] Invoked command in '/home/chotaehyun/ugv_ws/build/slam_gmapping' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/slam_gmapping
+[5.182s] Invoking command in '/home/chotaehyun/ugv_ws/build/slam_gmapping': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/slam_gmapping -- -j16 -l16
+[6.904s] [ 50%] [32mBuilding CXX object CMakeFiles/slam_gmapping.dir/src/slam_gmapping.cpp.o[0m
+[6.904s] In file included from [01m[K/home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping/include/slam_gmapping/slam_gmapping.h:38[m[K,
+[6.904s]                  from [01m[K/home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping/src/slam_gmapping.cpp:24[m[K:
+[6.904s] [01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+[6.904s]    35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+[6.904s]       |  [01;35m[K^~~~~~~[m[K
+[12.982s] In file included from [01m[K/home/chotaehyun/ugv_ws/install/openslam_gmapping/include/gmapping/gridfastslam/gridslamprocessor.h:9[m[K,
+[12.982s]                  from [01m[K/home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping/include/slam_gmapping/slam_gmapping.h:45[m[K,
+[12.982s]                  from [01m[K/home/chotaehyun/ugv_ws/src/ugv_else/gmapping/slam_gmapping/src/slam_gmapping.cpp:24[m[K:
+[12.983s] [01m[K/home/chotaehyun/ugv_ws/install/openslam_gmapping/include/gmapping/particlefilter/particlefilter.h:[m[K In function ‘[01m[Kvoid rle(OutputIterator&, const Iterator&, const Iterator&)[m[K’:
+[12.983s] [01m[K/home/chotaehyun/ugv_ws/install/openslam_gmapping/include/gmapping/particlefilter/particlefilter.h:140:9:[m[K [01;35m[Kwarning: [m[Kthis ‘[01m[Kif[m[K’ clause does not guard... [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmisleading-indentation-Wmisleading-indentation]8;;[m[K]
+[12.983s]   140 |         [01;35m[Kif[m[K (count>0)
+[12.983s]       |         [01;35m[K^~[m[K
+[12.983s] [01m[K/home/chotaehyun/ugv_ws/install/openslam_gmapping/include/gmapping/particlefilter/particlefilter.h:142:17:[m[K [01;36m[Knote: [m[K...this statement, but the latter is misleadingly indented as if it were guarded by the ‘[01m[Kif[m[K’
+[12.983s]   142 |                 [01;36m[Kout[m[K++;
+[12.983s]       |                 [01;36m[K^~~[m[K
+[30.664s] [100%] [32m[1mLinking CXX executable slam_gmapping[0m
+[31.503s] [100%] Built target slam_gmapping
+[31.520s] Invoked command in '/home/chotaehyun/ugv_ws/build/slam_gmapping' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/slam_gmapping -- -j16 -l16
+[31.523s] Invoking command in '/home/chotaehyun/ugv_ws/build/slam_gmapping': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/slam_gmapping
+[31.540s] -- Install configuration: ""
+[31.541s] -- Execute custom install script
+[31.541s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/lib/slam_gmapping/slam_gmapping
+[31.563s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/launch/mapping.launch.py
+[31.576s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/ament_index/resource_index/package_run_dependencies/slam_gmapping
+[31.588s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/ament_index/resource_index/parent_prefix_path/slam_gmapping
+[31.607s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/environment/ament_prefix_path.sh
+[31.620s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/environment/ament_prefix_path.dsv
+[31.633s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/environment/path.sh
+[31.654s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/environment/path.dsv
+[31.666s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/local_setup.bash
+[31.678s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/local_setup.sh
+[31.691s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/local_setup.zsh
+[31.712s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/local_setup.dsv
+[31.733s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/package.dsv
+[31.754s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/ament_index/resource_index/packages/slam_gmapping
+[31.767s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/cmake/slam_gmappingConfig.cmake
+[31.779s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/cmake/slam_gmappingConfig-version.cmake
+[31.791s] -- Symlinking: /home/chotaehyun/ugv_ws/install/slam_gmapping/share/slam_gmapping/package.xml
+[31.807s] Invoked command in '/home/chotaehyun/ugv_ws/build/slam_gmapping' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/slam_gmapping

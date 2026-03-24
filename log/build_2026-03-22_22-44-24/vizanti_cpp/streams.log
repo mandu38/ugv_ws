@@ -1,0 +1,23 @@
+[0.996s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/vizanti_cpp -- -j16 -l16
+[1.123s] [100%] Built target tf_consolidator
+[1.232s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/vizanti_cpp -- -j16 -l16
+[1.235s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/vizanti_cpp
+[1.250s] -- Install configuration: ""
+[1.250s] -- Execute custom install script
+[1.251s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/lib/vizanti_cpp/tf_consolidator
+[1.251s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/ament_index/resource_index/package_run_dependencies/vizanti_cpp
+[1.253s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/ament_index/resource_index/parent_prefix_path/vizanti_cpp
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/environment/ament_prefix_path.sh
+[1.256s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/environment/ament_prefix_path.dsv
+[1.256s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/environment/path.sh
+[1.256s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/environment/path.dsv
+[1.256s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/local_setup.bash
+[1.256s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/local_setup.sh
+[1.256s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/local_setup.zsh
+[1.257s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/local_setup.dsv
+[1.257s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/package.dsv
+[1.272s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/ament_index/resource_index/packages/vizanti_cpp
+[1.273s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/cmake/vizanti_cppConfig.cmake
+[1.273s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/cmake/vizanti_cppConfig-version.cmake
+[1.273s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_cpp/share/vizanti_cpp/package.xml
+[1.335s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/vizanti_cpp

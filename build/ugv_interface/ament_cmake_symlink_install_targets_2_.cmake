@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/chotaehyun/ugv_ws/build/ugv_interface/rosidl_generator_py/ugv_interface/ugv_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "ugv_interface__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/ugv_interface")

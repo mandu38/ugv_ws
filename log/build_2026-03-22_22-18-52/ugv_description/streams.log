@@ -1,0 +1,59 @@
+[1.387s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_description -- -j16 -l16
+[1.602s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_description -- -j16 -l16
+[1.604s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_description
+[1.654s] -- Install configuration: ""
+[1.655s] -- Execute custom install script
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/launch/display.launch.py
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/base_lidar_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/base_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/left_down_wheel_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/left_up_wheel_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/pt_base_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/pt_camera_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/pt_link1.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/pt_link2.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/right_down_wheel_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/rasp_rover/right_up_wheel_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/3d_camera_link.stl
+[1.655s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/base_lidar_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/base_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/left_down_wheel_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/left_up_wheel_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/pt_base_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/pt_camera_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/pt_link1.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/pt_link2.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/right_down_wheel_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_beast/right_up_wheel_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/3d_camera_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/base_lidar_link.stl
+[1.656s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/base_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/left_down_wheel_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/left_up_wheel_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/pt_base_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/pt_camera_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/pt_link1.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/pt_link2.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/right_down_wheel_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/meshes/ugv_rover/right_up_wheel_link.stl
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/urdf/rasp_rover.urdf
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/urdf/ugv_beast.urdf
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/urdf/ugv_rover.urdf
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/rviz/view_description.rviz
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ament_index/resource_index/package_run_dependencies/ugv_description
+[1.657s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ament_index/resource_index/parent_prefix_path/ugv_description
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/environment/ament_prefix_path.sh
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/environment/ament_prefix_path.dsv
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/environment/path.sh
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/environment/path.dsv
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/local_setup.bash
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/local_setup.sh
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/local_setup.zsh
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/local_setup.dsv
+[1.658s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/package.dsv
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ament_index/resource_index/packages/ugv_description
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.658s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/cmake/ugv_descriptionConfig.cmake
+[1.659s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/cmake/ugv_descriptionConfig-version.cmake
+[1.659s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_description/share/ugv_description/package.xml
+[1.885s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_description

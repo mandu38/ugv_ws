@@ -1,0 +1,40 @@
+[2.665s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_vision': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_vision/build --no-deps symlink_data
+[7.524s] running develop
+[7.525s] running egg_info
+[7.525s] creating ugv_vision.egg-info
+[7.525s] writing ugv_vision.egg-info/PKG-INFO
+[7.525s] writing dependency_links to ugv_vision.egg-info/dependency_links.txt
+[7.525s] writing entry points to ugv_vision.egg-info/entry_points.txt
+[7.525s] writing requirements to ugv_vision.egg-info/requires.txt
+[7.525s] writing top-level names to ugv_vision.egg-info/top_level.txt
+[7.525s] writing manifest file 'ugv_vision.egg-info/SOURCES.txt'
+[7.525s] reading manifest file 'ugv_vision.egg-info/SOURCES.txt'
+[7.525s] writing manifest file 'ugv_vision.egg-info/SOURCES.txt'
+[7.526s] running build_ext
+[7.526s] Creating /home/chotaehyun/ugv_ws/install/ugv_vision/lib/python3.10/site-packages/ugv-vision.egg-link (link to .)
+[7.526s] Installing apriltag_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.526s] Installing apriltag_track_0 script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.526s] Installing apriltag_track_1 script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.526s] Installing apriltag_track_2 script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.535s] Installing color_track script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.535s] Installing gesture_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.535s] Installing kcf_track script to /home/chotaehyun/ugv_ws/install/ugv_vision/lib/ugv_vision
+[7.535s] 
+[7.536s] Installed /home/chotaehyun/ugv_ws/build/ugv_vision
+[7.536s] running symlink_data
+[7.536s] creating /home/chotaehyun/ugv_ws/install/ugv_vision/share/ament_index
+[7.536s] creating /home/chotaehyun/ugv_ws/install/ugv_vision/share/ament_index/resource_index
+[7.536s] creating /home/chotaehyun/ugv_ws/install/ugv_vision/share/ament_index/resource_index/packages
+[7.536s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/resource/ugv_vision -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ament_index/resource_index/packages
+[7.536s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/package.xml -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision
+[7.536s] creating /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/launch
+[7.536s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/launch/stereo.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/launch
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/launch/oak_d_lite.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/launch
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/launch/camera.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/launch
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/launch/apriltag_track.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/launch
+[7.543s] creating /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/config
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/config/camera_info.yaml -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/config
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/config/oak_d_lite.yaml -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/config
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/config/params.yaml -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/config
+[7.543s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_vision/config/stereo.yaml -> /home/chotaehyun/ugv_ws/install/ugv_vision/share/ugv_vision/config
+[7.618s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_vision' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_vision/build --no-deps symlink_data

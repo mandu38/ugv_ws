@@ -1,0 +1,1 @@
+/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_server/public/templates/map/map_script.js

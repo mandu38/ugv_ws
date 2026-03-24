@@ -1,0 +1,34 @@
+[1.871s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_bringup': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_bringup/build --no-deps symlink_data
+[3.519s] running develop
+[3.547s] running egg_info
+[3.548s] creating ugv_bringup.egg-info
+[3.548s] writing ugv_bringup.egg-info/PKG-INFO
+[3.548s] writing dependency_links to ugv_bringup.egg-info/dependency_links.txt
+[3.548s] writing entry points to ugv_bringup.egg-info/entry_points.txt
+[3.552s] writing requirements to ugv_bringup.egg-info/requires.txt
+[3.552s] writing top-level names to ugv_bringup.egg-info/top_level.txt
+[3.552s] writing manifest file 'ugv_bringup.egg-info/SOURCES.txt'
+[3.552s] reading manifest file 'ugv_bringup.egg-info/SOURCES.txt'
+[3.561s] writing manifest file 'ugv_bringup.egg-info/SOURCES.txt'
+[3.562s] running build_ext
+[3.562s] Creating /home/chotaehyun/ugv_ws/install/ugv_bringup/lib/python3.10/site-packages/ugv-bringup.egg-link (link to .)
+[3.573s] Installing ugv_bringup script to /home/chotaehyun/ugv_ws/install/ugv_bringup/lib/ugv_bringup
+[3.573s] Installing ugv_driver script to /home/chotaehyun/ugv_ws/install/ugv_bringup/lib/ugv_bringup
+[3.573s] 
+[3.574s] Installed /home/chotaehyun/ugv_ws/build/ugv_bringup
+[3.574s] running symlink_data
+[3.574s] creating /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ament_index
+[3.574s] creating /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ament_index/resource_index
+[3.574s] creating /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ament_index/resource_index/packages
+[3.574s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/resource/ugv_bringup -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ament_index/resource_index/packages
+[3.574s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/package.xml -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup
+[3.574s] creating /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/launch
+[3.574s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/launch/bringup_imu_ekf.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/launch
+[3.574s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/launch/bringup_lidar.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/launch
+[3.574s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/launch/bringup_imu_origin.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/launch
+[3.574s] creating /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/rviz
+[3.574s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/rviz/view_bringup.rviz -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/rviz
+[3.575s] creating /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/param
+[3.575s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/param/imu_filter_param.yaml -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/param
+[3.575s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_bringup/param/ekf.yaml -> /home/chotaehyun/ugv_ws/install/ugv_bringup/share/ugv_bringup/param
+[3.694s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_bringup' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_bringup/build --no-deps symlink_data

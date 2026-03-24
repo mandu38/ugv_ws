@@ -1,0 +1,2 @@
+/home/chotaehyun/ugv_ws/install/apriltag_ros/lib/libAprilTagNode.so
+/home/chotaehyun/ugv_ws/install/apriltag_ros/bin/tag_detector

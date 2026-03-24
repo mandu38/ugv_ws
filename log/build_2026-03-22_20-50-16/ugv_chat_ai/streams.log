@@ -1,0 +1,25 @@
+[1.821s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_chat_ai': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_chat_ai/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_chat_ai/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_chat_ai/build --no-deps symlink_data
+[3.510s] running develop
+[3.511s] running egg_info
+[3.511s] creating ugv_chat_ai.egg-info
+[3.511s] writing ugv_chat_ai.egg-info/PKG-INFO
+[3.511s] writing dependency_links to ugv_chat_ai.egg-info/dependency_links.txt
+[3.511s] writing entry points to ugv_chat_ai.egg-info/entry_points.txt
+[3.511s] writing requirements to ugv_chat_ai.egg-info/requires.txt
+[3.511s] writing top-level names to ugv_chat_ai.egg-info/top_level.txt
+[3.511s] writing manifest file 'ugv_chat_ai.egg-info/SOURCES.txt'
+[3.512s] reading manifest file 'ugv_chat_ai.egg-info/SOURCES.txt'
+[3.512s] writing manifest file 'ugv_chat_ai.egg-info/SOURCES.txt'
+[3.512s] running build_ext
+[3.512s] Creating /home/chotaehyun/ugv_ws/install/ugv_chat_ai/lib/python3.10/site-packages/ugv-chat-ai.egg-link (link to .)
+[3.512s] Installing app script to /home/chotaehyun/ugv_ws/install/ugv_chat_ai/lib/ugv_chat_ai
+[3.512s] 
+[3.512s] Installed /home/chotaehyun/ugv_ws/build/ugv_chat_ai
+[3.512s] running symlink_data
+[3.512s] creating /home/chotaehyun/ugv_ws/install/ugv_chat_ai/share/ament_index
+[3.512s] creating /home/chotaehyun/ugv_ws/install/ugv_chat_ai/share/ament_index/resource_index
+[3.512s] creating /home/chotaehyun/ugv_ws/install/ugv_chat_ai/share/ament_index/resource_index/packages
+[3.512s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_chat_ai/resource/ugv_chat_ai -> /home/chotaehyun/ugv_ws/install/ugv_chat_ai/share/ament_index/resource_index/packages
+[3.512s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_chat_ai/package.xml -> /home/chotaehyun/ugv_ws/install/ugv_chat_ai/share/ugv_chat_ai
+[3.513s] creating /home/chotaehyun/ugv_ws/install/ugv_chat_ai/share/ugv_chat_ai/launch
+[3.568s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_chat_ai' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_chat_ai/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_chat_ai/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_chat_ai/build --no-deps symlink_data

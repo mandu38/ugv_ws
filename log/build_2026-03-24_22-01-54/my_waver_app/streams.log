@@ -1,0 +1,17 @@
+[3.159s] Invoking command in '/home/chotaehyun/ugv_ws/build/my_waver_app': PYTHONPATH=/home/chotaehyun/ugv_ws/build/my_waver_app/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/my_waver_app/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/my_waver_app/build --no-deps symlink_data
+[3.741s] running develop
+[4.029s] running egg_info
+[4.030s] writing my_waver_app.egg-info/PKG-INFO
+[4.030s] writing dependency_links to my_waver_app.egg-info/dependency_links.txt
+[4.030s] writing entry points to my_waver_app.egg-info/entry_points.txt
+[4.031s] writing requirements to my_waver_app.egg-info/requires.txt
+[4.031s] writing top-level names to my_waver_app.egg-info/top_level.txt
+[4.033s] reading manifest file 'my_waver_app.egg-info/SOURCES.txt'
+[4.036s] writing manifest file 'my_waver_app.egg-info/SOURCES.txt'
+[4.036s] running build_ext
+[4.036s] Creating /home/chotaehyun/ugv_ws/install/my_waver_app/lib/python3.10/site-packages/my-waver-app.egg-link (link to .)
+[4.037s] Installing patrol_waypoint_node script to /home/chotaehyun/ugv_ws/install/my_waver_app/lib/my_waver_app
+[4.038s] 
+[4.038s] Installed /home/chotaehyun/ugv_ws/build/my_waver_app
+[4.038s] running symlink_data
+[4.113s] Invoked command in '/home/chotaehyun/ugv_ws/build/my_waver_app' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/my_waver_app/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/my_waver_app/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/my_waver_app/build --no-deps symlink_data

@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating my_waver_app.egg-info
+writing my_waver_app.egg-info/PKG-INFO
+writing dependency_links to my_waver_app.egg-info/dependency_links.txt
+writing entry points to my_waver_app.egg-info/entry_points.txt
+writing requirements to my_waver_app.egg-info/requires.txt
+writing top-level names to my_waver_app.egg-info/top_level.txt
+writing manifest file 'my_waver_app.egg-info/SOURCES.txt'
+reading manifest file 'my_waver_app.egg-info/SOURCES.txt'
+writing manifest file 'my_waver_app.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/chotaehyun/ugv_ws/install/my_waver_app/lib/python3.10/site-packages/my-waver-app.egg-link (link to .)
+Installing patrol_waypoint_node script to /home/chotaehyun/ugv_ws/install/my_waver_app/lib/my_waver_app
+
+Installed /home/chotaehyun/ugv_ws/build/my_waver_app
+running symlink_data
+creating /home/chotaehyun/ugv_ws/install/my_waver_app/share/ament_index
+creating /home/chotaehyun/ugv_ws/install/my_waver_app/share/ament_index/resource_index
+creating /home/chotaehyun/ugv_ws/install/my_waver_app/share/ament_index/resource_index/packages
+symbolically linking /home/chotaehyun/ugv_ws/build/my_waver_app/resource/my_waver_app -> /home/chotaehyun/ugv_ws/install/my_waver_app/share/ament_index/resource_index/packages
+symbolically linking /home/chotaehyun/ugv_ws/build/my_waver_app/package.xml -> /home/chotaehyun/ugv_ws/install/my_waver_app/share/my_waver_app
+creating /home/chotaehyun/ugv_ws/install/my_waver_app/share/my_waver_app/launch
+symbolically linking /home/chotaehyun/ugv_ws/build/my_waver_app/launch/patrol.launch.py -> /home/chotaehyun/ugv_ws/install/my_waver_app/share/my_waver_app/launch
+creating /home/chotaehyun/ugv_ws/install/my_waver_app/share/my_waver_app/config
+symbolically linking /home/chotaehyun/ugv_ws/build/my_waver_app/config/patrol_points.yaml -> /home/chotaehyun/ugv_ws/install/my_waver_app/share/my_waver_app/config

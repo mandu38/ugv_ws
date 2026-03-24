@@ -1,0 +1,18 @@
+[2.377s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_bringup': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_bringup/build --no-deps symlink_data
+[2.768s] running develop
+[2.988s] running egg_info
+[2.988s] writing ugv_bringup.egg-info/PKG-INFO
+[2.989s] writing dependency_links to ugv_bringup.egg-info/dependency_links.txt
+[2.989s] writing entry points to ugv_bringup.egg-info/entry_points.txt
+[2.989s] writing requirements to ugv_bringup.egg-info/requires.txt
+[2.989s] writing top-level names to ugv_bringup.egg-info/top_level.txt
+[2.992s] reading manifest file 'ugv_bringup.egg-info/SOURCES.txt'
+[2.993s] writing manifest file 'ugv_bringup.egg-info/SOURCES.txt'
+[2.995s] running build_ext
+[2.995s] Creating /home/chotaehyun/ugv_ws/install/ugv_bringup/lib/python3.10/site-packages/ugv-bringup.egg-link (link to .)
+[2.996s] Installing ugv_bringup script to /home/chotaehyun/ugv_ws/install/ugv_bringup/lib/ugv_bringup
+[2.996s] Installing ugv_driver script to /home/chotaehyun/ugv_ws/install/ugv_bringup/lib/ugv_bringup
+[2.996s] 
+[2.997s] Installed /home/chotaehyun/ugv_ws/build/ugv_bringup
+[2.997s] running symlink_data
+[3.058s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_bringup' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_bringup/build --no-deps symlink_data

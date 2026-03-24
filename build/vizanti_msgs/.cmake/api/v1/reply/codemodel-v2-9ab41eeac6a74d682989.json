@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e06c73f29a8e948c1e82.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "vizanti_msgs__py",
+					"jsonFile" : "directory-vizanti_msgs__py-0ce6099c0c209bc8a583.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/chotaehyun/ugv_ws/build/vizanti_msgs/vizanti_msgs__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "vizanti_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_vizanti_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_vizanti_msgs_egg-59eed0a7c69a070b3c88.json",
+					"name" : "ament_cmake_python_build_vizanti_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_vizanti_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_vizanti_msgs-eeee4dfb673e6481fb13.json",
+					"name" : "ament_cmake_python_symlink_vizanti_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-7891af1361c1ac704a16.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs-97fdd62f7f424cc5fa6d.json",
+					"name" : "vizanti_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__cpp-e7178b28e697cb9ed877.json",
+					"name" : "vizanti_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "vizanti_msgs__py::@c7023ab4c6cb8764f2d5",
+					"jsonFile" : "target-vizanti_msgs__py-d5a34f1566c140851001.json",
+					"name" : "vizanti_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_generator_c-131cc6455cd708750cd2.json",
+					"name" : "vizanti_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_generator_py-d88c05f7c325a2bfc7d8.json",
+					"name" : "vizanti_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_c-c22582540db5f86622ff.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_c__pyext-51b2740ef8c2f9598606.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_cpp-eb7e7b710ff33862b3a5.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_fastrtps_c-7fa343665f6450ea8de2.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_fastrtps_c__pyext-0f8f96ac1e4306a8e904.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_fastrtps_cpp-498d66a8256aee0da0c9.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_introspection_c-2101c0b483b32f27ea9c.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_introspection_c__pyext-19e885d0ee7e5c0605f8.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs__rosidl_typesupport_introspection_cpp-823d6e8eed704688cc25.json",
+					"name" : "vizanti_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vizanti_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vizanti_msgs_uninstall-b3dbd84c2f44277ef11f.json",
+					"name" : "vizanti_msgs_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/chotaehyun/ugv_ws/build/vizanti_msgs",
+		"source" : "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

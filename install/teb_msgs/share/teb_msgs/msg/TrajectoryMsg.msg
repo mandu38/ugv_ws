@@ -1,0 +1,1 @@
+/home/chotaehyun/ugv_ws/src/ugv_else/teb_local_planner/teb_msgs/msg/TrajectoryMsg.msg

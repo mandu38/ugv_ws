@@ -1,0 +1,21 @@
+[35m[1mConsolidate compiler generated dependencies of target robot_pose_publisher[0m
+[100%] Built target robot_pose_publisher
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/lib/robot_pose_publisher/robot_pose_publisher
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/launch/robot_pose_publisher_launch.py
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/ament_index/resource_index/package_run_dependencies/robot_pose_publisher
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/ament_index/resource_index/parent_prefix_path/robot_pose_publisher
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/path.sh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/path.dsv
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.bash
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.sh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.zsh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/package.dsv
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/ament_index/resource_index/packages/robot_pose_publisher
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/package.xml

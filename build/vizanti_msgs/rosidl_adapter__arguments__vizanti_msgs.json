@@ -1,0 +1,15 @@
+{
+  "package_name": "vizanti_msgs",
+  "non_idl_tuples": [
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/GetNodeParameters.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/SetNodeParameter.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/SaveMap.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/LoadMap.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/Launches.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/RecordRosbag.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/ManageNode.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/ManageLaunch.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/ListPackages.srv",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs:srv/ListExecutables.srv"
+  ]
+}

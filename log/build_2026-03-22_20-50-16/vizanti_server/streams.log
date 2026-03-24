@@ -1,0 +1,278 @@
+[0.062s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_server': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_server -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/vizanti_server
+[0.357s] -- The C compiler identification is GNU 11.4.0
+[0.555s] -- The CXX compiler identification is GNU 11.4.0
+[0.582s] -- Detecting C compiler ABI info
+[0.880s] -- Detecting C compiler ABI info - done
+[0.906s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.907s] -- Detecting C compile features
+[0.908s] -- Detecting C compile features - done
+[0.919s] -- Detecting CXX compiler ABI info
+[1.238s] -- Detecting CXX compiler ABI info - done
+[1.263s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.264s] -- Detecting CXX compile features
+[1.264s] -- Detecting CXX compile features - done
+[1.294s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.974s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.324s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.523s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[2.814s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.857s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.912s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.982s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.091s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.366s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.387s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.843s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.975s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.178s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.244s] -- Looking for pthread.h
+[4.559s] -- Looking for pthread.h - found
+[4.560s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.836s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.838s] -- Found Threads: TRUE  
+[5.116s] -- Found rclpy: 3.3.21 (/opt/ros/humble/share/rclpy/cmake)
+[5.128s] -- Found std_srvs: 4.9.1 (/opt/ros/humble/share/std_srvs/cmake)
+[5.185s] -- Found tf2_msgs: 0.25.19 (/opt/ros/humble/share/tf2_msgs/cmake)
+[5.484s] -- Found vizanti_msgs: 0.1.0 (/home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake)
+[5.756s] -- Found rosbridge_suite: 2.0.5 (/opt/ros/humble/share/rosbridge_suite/cmake)
+[6.116s] -- Configuring done
+[6.138s] -- Generating done
+[6.150s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/vizanti_server
+[6.208s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_server' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_server -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/vizanti_server
+[6.215s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_server': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/vizanti_server -- -j16 -l16
+[6.387s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_server' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/vizanti_server -- -j16 -l16
+[6.396s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_server': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/vizanti_server
+[6.475s] -- Install configuration: ""
+[6.475s] -- Execute custom install script
+[6.476s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//launch/vizanti_rws.launch.py
+[6.476s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//launch/vizanti_server.launch.py
+[6.527s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/add.svg
+[6.565s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/altimeter.svg
+[6.606s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/altimeter_arrow.svg
+[6.642s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/altimeter_arrow_green.svg
+[6.683s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/altimeter_green.svg
+[6.724s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/area.svg
+[6.752s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/battery_100.svg
+[6.790s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/battery_20.svg
+[6.829s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/battery_40.svg
+[6.866s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/battery_60.svg
+[6.899s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/battery_80.svg
+[6.935s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/battery_unknown.svg
+[6.972s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/button.svg
+[7.004s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/button_false.svg
+[7.038s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/button_true.svg
+[7.073s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/costmap.svg
+[7.110s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/default_layout.json
+[7.143s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/folder.svg
+[7.176s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/grid.svg
+[7.212s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/gridcells.svg
+[7.250s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/152.png
+[7.293s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/16.png
+[7.330s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/192.png
+[7.359s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/32.png
+[7.374s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/512.png
+[7.412s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/96.png
+[7.431s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/icon.svg
+[7.452s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/manifest.json
+[7.472s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/icon/preview.jpg
+[7.494s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/image.svg
+[7.514s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/initialpose.png
+[7.548s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/initialpose.svg
+[7.589s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/joypos.svg
+[7.623s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/joystick.svg
+[7.665s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/map.svg
+[7.702s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/marker.svg
+[7.741s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/markerarray.svg
+[7.779s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/node_kill.svg
+[7.812s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/node_restart.svg
+[7.850s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/nodemgr.svg
+[7.888s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/path.svg
+[7.924s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/pointcloud.svg
+[7.951s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/posearray.svg
+[7.986s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/posewithcovariancestamped.svg
+[8.015s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/range.svg
+[8.050s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/rawmap.svg
+[8.075s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/reconfigure.svg
+[8.111s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_2wd.png
+[8.146s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_4wd.png
+[8.186s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_arrow.png
+[8.224s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_dog.png
+[8.266s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_hatchback.png
+[8.303s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_orca.png
+[8.332s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_pancake.png
+[8.368s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_rccar.png
+[8.408s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_sandwich.png
+[8.446s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_tortoise.png
+[8.481s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robot_model/_tuna.png
+[8.516s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/robotmodel.svg
+[8.557s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/rosbag.svg
+[8.595s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/rosbag_active.svg
+[8.634s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/rosbridge_connected.svg
+[8.673s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/rosbridge_disconnected.svg
+[8.714s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/rosbridge_reconnect.svg
+[8.748s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/satelite.svg
+[8.785s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/scan.svg
+[8.824s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/settings.svg
+[8.858s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/simplegoal.png
+[8.895s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/simplegoal.svg
+[8.930s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/temp_cold.svg
+[8.965s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/temp_hot.svg
+[9.001s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/temp_unknown.svg
+[9.036s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/temp_warm.svg
+[9.076s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/tf.svg
+[9.122s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/tile_error.png
+[9.167s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/tile_loading.png
+[9.211s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/assets/waypoints.svg
+[9.252s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/css/style.css
+[9.279s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/head.html
+[9.304s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/iconbar.html
+[9.354s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/index.html
+[9.402s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/nipplejs.js
+[9.426s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/nipplejs.min.js
+[9.447s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/nipplejs_LICENSE.txt
+[9.468s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/quaternion.min.js
+[9.489s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/quaternionjs_LICENSE.txt
+[9.523s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/roslib.min.js
+[9.552s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/lib/roslibjs_LICENSE.txt
+[9.587s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/main.js
+[9.628s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/database.js
+[9.661s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/elements.js
+[9.700s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/joystick.js
+[9.734s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/navsat.js
+[9.755s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/persistent.js
+[9.793s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/rosbridge.js
+[9.824s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/status.js
+[9.862s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/tf.js
+[9.899s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/util.js
+[9.941s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/modules/view.js
+[9.983s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/js/setup.js
+[10.023s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/add/add_icon.html
+[10.059s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/add/add_modal.html
+[10.101s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/add/add_script.js
+[10.144s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/altimeter/altimeter_icon.html
+[10.183s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/altimeter/altimeter_modal.html
+[10.222s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/altimeter/altimeter_script.js
+[10.263s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/altimeter/altimeter_view.html
+[10.301s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/area/area_icon.html
+[10.341s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/area/area_modal.html
+[10.374s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/area/area_script.js
+[10.415s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/area/area_view.html
+[10.435s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/battery/battery_icon.html
+[10.455s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/battery/battery_modal.html
+[10.475s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/battery/battery_script.js
+[10.494s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/button/button_icon.html
+[10.514s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/button/button_modal.html
+[10.548s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/button/button_script.js
+[10.586s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/compressedimage/compressedimage_icon.html
+[10.609s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/compressedimage/compressedimage_modal.html
+[10.626s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/compressedimage/compressedimage_script.js
+[10.654s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/compressedimage/compressedimage_view.html
+[10.676s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/folder/folder_icon.html
+[10.718s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/folder/folder_modal.html
+[10.758s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/folder/folder_script.js
+[10.780s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/grid/grid_icon.html
+[10.814s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/grid/grid_modal.html
+[10.856s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/grid/grid_script.js
+[10.889s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/grid/grid_view.html
+[10.927s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/gridcells/gridcells_icon.html
+[10.960s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/gridcells/gridcells_modal.html
+[10.989s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/gridcells/gridcells_script.js
+[11.019s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/gridcells/gridcells_view.html
+[11.057s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/initialpose/initialpose_icon.html
+[11.098s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/initialpose/initialpose_modal.html
+[11.122s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/initialpose/initialpose_script.js
+[11.143s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/initialpose/initialpose_view.html
+[11.167s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/map/map_icon.html
+[11.196s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/map/map_modal.html
+[11.230s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/map/map_script.js
+[11.250s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/map/map_view.html
+[11.271s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/map/map_worker.js
+[11.292s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/markerarray/markerarray_icon.html
+[11.314s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/markerarray/markerarray_modal.html
+[11.334s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/markerarray/markerarray_script.js
+[11.357s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/markerarray/markerarray_view.html
+[11.377s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/nodemgr/nodemgr_icon.html
+[11.399s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/nodemgr/nodemgr_modal.html
+[11.422s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/nodemgr/nodemgr_script.js
+[11.443s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/path/path_icon.html
+[11.464s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/path/path_modal.html
+[11.484s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/path/path_script.js
+[11.505s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/path/path_view.html
+[11.527s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/pointcloud/pointcloud_icon.html
+[11.547s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/pointcloud/pointcloud_modal.html
+[11.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/pointcloud/pointcloud_script.js
+[11.588s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/pointcloud/pointcloud_view.html
+[11.608s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posearray/posearray_icon.html
+[11.628s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posearray/posearray_modal.html
+[11.648s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posearray/posearray_script.js
+[11.667s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posearray/posearray_view.html
+[11.687s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posewithcovariancestamped/posewithcovariancestamped_icon.html
+[11.706s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posewithcovariancestamped/posewithcovariancestamped_modal.html
+[11.726s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posewithcovariancestamped/posewithcovariancestamped_script.js
+[11.746s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/posewithcovariancestamped/posewithcovariancestamped_view.html
+[11.765s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/range/range_icon.html
+[11.785s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/range/range_modal.html
+[11.804s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/range/range_script.js
+[11.826s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/range/range_view.html
+[11.846s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/reconfigure/reconfigure_icon.html
+[11.865s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/reconfigure/reconfigure_modal.html
+[11.884s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/reconfigure/reconfigure_script.js
+[11.901s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/robotmodel/robotmodel_icon.html
+[11.914s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/robotmodel/robotmodel_modal.html
+[11.929s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/robotmodel/robotmodel_script.js
+[11.945s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/robotmodel/robotmodel_view.html
+[11.960s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/rosbag/rosbag_icon.html
+[11.976s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/rosbag/rosbag_modal.html
+[11.992s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/rosbag/rosbag_script.js
+[12.007s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/rosbridge/rosbridge_icon.html
+[12.024s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/rosbridge/rosbridge_modal.html
+[12.039s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/rosbridge/rosbridge_script.js
+[12.055s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/satelite/satelite_icon.html
+[12.071s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/satelite/satelite_modal.html
+[12.087s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/satelite/satelite_script.js
+[12.103s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/satelite/satelite_view.html
+[12.120s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/scan/scan_icon.html
+[12.139s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/scan/scan_modal.html
+[12.159s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/scan/scan_script.js
+[12.177s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/scan/scan_view.html
+[12.197s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/settings/settings_icon.html
+[12.218s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/settings/settings_modal.html
+[12.247s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/settings/settings_script.js
+[12.263s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/simplegoal/simplegoal_icon.html
+[12.283s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/simplegoal/simplegoal_modal.html
+[12.300s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/simplegoal/simplegoal_script.js
+[12.318s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/simplegoal/simplegoal_view.html
+[12.335s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/teleop/teleop_icon.html
+[12.353s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/teleop/teleop_modal.html
+[12.370s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/teleop/teleop_script.js
+[12.391s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/teleop/teleop_view.html
+[12.417s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/temperature/temperature_icon.html
+[12.433s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/temperature/temperature_modal.html
+[12.460s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/temperature/temperature_script.js
+[12.480s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/tf/tf_icon.html
+[12.497s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/tf/tf_modal.html
+[12.517s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/tf/tf_script.js
+[12.533s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/tf/tf_view.html
+[12.550s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/waypoints/waypoints_icon.html
+[12.570s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/waypoints/waypoints_modal.html
+[12.588s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/waypoints/waypoints_script.js
+[12.605s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server//public/templates/waypoints/waypoints_view.html
+[12.621s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/lib/vizanti_server/server.py
+[12.636s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/lib/vizanti_server/service_handler.py
+[12.654s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/lib/vizanti_server/rosapi_launch.py
+[12.673s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/ament_index/resource_index/package_run_dependencies/vizanti_server
+[12.692s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/ament_index/resource_index/parent_prefix_path/vizanti_server
+[12.711s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/environment/ament_prefix_path.sh
+[12.730s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/environment/ament_prefix_path.dsv
+[12.748s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/environment/path.sh
+[12.768s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/environment/path.dsv
+[12.786s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/local_setup.bash
+[12.804s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/local_setup.sh
+[12.822s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/local_setup.zsh
+[12.841s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/local_setup.dsv
+[12.860s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/package.dsv
+[12.879s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/ament_index/resource_index/packages/vizanti_server
+[12.897s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/cmake/vizanti_serverConfig.cmake
+[12.922s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/cmake/vizanti_serverConfig-version.cmake
+[12.944s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_server/share/vizanti_server/package.xml
+[12.968s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_server' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/vizanti_server

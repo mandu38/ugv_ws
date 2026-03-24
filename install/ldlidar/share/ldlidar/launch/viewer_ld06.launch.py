@@ -1,0 +1,1 @@
+/home/chotaehyun/ugv_ws/src/ugv_else/ldlidar/launch/viewer_ld06.launch.py

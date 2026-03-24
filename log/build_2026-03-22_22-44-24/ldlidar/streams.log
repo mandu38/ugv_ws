@@ -1,0 +1,32 @@
+[0.091s] Invoking command in '/home/chotaehyun/ugv_ws/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ldlidar -- -j16 -l16
+[1.141s] [100%] Built target ldlidar_node
+[1.157s] Invoked command in '/home/chotaehyun/ugv_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ldlidar -- -j16 -l16
+[1.159s] Invoking command in '/home/chotaehyun/ugv_ws/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ldlidar
+[1.223s] -- Install configuration: ""
+[1.223s] -- Execute custom install script
+[1.223s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/lib/ldlidar/ldlidar_node
+[1.223s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/ld06.launch.py
+[1.224s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/ld19.launch.py
+[1.224s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/ldlidar.launch.py
+[1.224s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/stl27l.launch.py
+[1.224s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/viewer_ld06.launch.py
+[1.224s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/viewer_ld19.launch.py
+[1.225s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/viewer_ldlidar.launch.py
+[1.226s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//launch/viewer_stl27l.launch.py
+[1.227s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar//rviz/view.rviz
+[1.228s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ament_index/resource_index/package_run_dependencies/ldlidar
+[1.228s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ament_index/resource_index/parent_prefix_path/ldlidar
+[1.228s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.sh
+[1.228s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.dsv
+[1.228s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/environment/path.sh
+[1.228s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/environment/path.dsv
+[1.229s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/local_setup.bash
+[1.229s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/local_setup.sh
+[1.229s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/local_setup.zsh
+[1.229s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/local_setup.dsv
+[1.229s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/package.dsv
+[1.229s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ament_index/resource_index/packages/ldlidar
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig.cmake
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig-version.cmake
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ldlidar/share/ldlidar/package.xml
+[1.314s] Invoked command in '/home/chotaehyun/ugv_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ldlidar

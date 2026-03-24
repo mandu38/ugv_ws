@@ -1,0 +1,100 @@
+[0.071s] Invoking command in '/home/chotaehyun/ugv_ws/build/emcl2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/emcl2_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/emcl2
+[1.052s] -- The C compiler identification is GNU 11.4.0
+[1.052s] -- The CXX compiler identification is GNU 11.4.0
+[1.052s] -- Detecting C compiler ABI info
+[1.052s] -- Detecting C compiler ABI info - done
+[1.052s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.052s] -- Detecting C compile features
+[1.052s] -- Detecting C compile features - done
+[1.052s] -- Detecting CXX compiler ABI info
+[1.052s] -- Detecting CXX compiler ABI info - done
+[1.052s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.052s] -- Detecting CXX compile features
+[1.052s] -- Detecting CXX compile features - done
+[1.053s] -- Found ament_cmake_auto: 1.3.14 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.053s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.114s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.477s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.489s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.508s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.535s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.612s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.715s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.724s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.993s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.058s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.174s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.200s] -- Looking for pthread.h
+[2.489s] -- Looking for pthread.h - found
+[2.490s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.940s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.941s] -- Found Threads: TRUE  
+[3.944s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[3.956s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.957s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.046s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.142s] [0mIn this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/emcl2` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.[0m
+[4.166s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.167s] -- Configured cppcheck include dirs: /home/chotaehyun/ugv_ws/src/ugv_else/emcl2_ros2/include
+[4.167s] -- Configured cppcheck exclude dirs and/or files: 
+[4.173s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.180s] -- Added test 'lint_cmake' to check CMake code style
+[4.183s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.191s] -- Added test 'uncrustify' to check C / C++ code style
+[4.192s] -- Configured uncrustify additional arguments: 
+[4.197s] -- Added test 'xmllint' to check XML markup files
+[4.210s] -- Configuring done
+[4.275s] -- Generating done
+[4.350s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/emcl2
+[4.431s] Invoked command in '/home/chotaehyun/ugv_ws/build/emcl2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/emcl2_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/emcl2
+[4.432s] Invoking command in '/home/chotaehyun/ugv_ws/build/emcl2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/emcl2 -- -j16 -l16
+[7.652s] [ 11%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Mcl.cpp.o[0m
+[7.653s] [ 22%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/ExpResetMcl2.cpp.o[0m
+[7.653s] [ 33%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Pose.cpp.o[0m
+[7.653s] [ 44%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Particle.cpp.o[0m
+[7.653s] [ 55%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/emcl2_node.cpp.o[0m
+[7.653s] [ 66%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/OdomModel.cpp.o[0m
+[7.653s] [ 77%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/Scan.cpp.o[0m
+[7.653s] [ 88%] [32mBuilding CXX object CMakeFiles/emcl2_node.dir/src/LikelihoodFieldMap.cpp.o[0m
+[52.640s] [100%] [32m[1mLinking CXX executable emcl2_node[0m
+[52.927s] [100%] Built target emcl2_node
+[52.944s] Invoked command in '/home/chotaehyun/ugv_ws/build/emcl2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/emcl2 -- -j16 -l16
+[52.946s] Invoking command in '/home/chotaehyun/ugv_ws/build/emcl2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/emcl2
+[52.962s] -- Install configuration: ""
+[52.963s] -- Execute custom install script
+[52.963s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/lib/emcl2/test.bash
+[52.974s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/lib/emcl2/test_gui.bash
+[52.986s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/ExpResetMcl2.h
+[52.996s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/LikelihoodFieldMap.h
+[53.007s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Mcl.h
+[53.017s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/OdomModel.h
+[53.028s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Particle.h
+[53.039s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Pose.h
+[53.050s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/Scan.h
+[53.061s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/include/emcl2/emcl2_node.h
+[53.071s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/lib/emcl2/emcl2_node
+[53.083s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/config/emcl2.param.yaml
+[53.093s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/config/emcl2_quick_start.param.yaml
+[53.104s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/launch/emcl2.launch.py
+[53.115s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/demo.bash
+[53.126s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/test.bash
+[53.136s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/test.launch.xml
+[53.147s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/test/test_gui.bash
+[53.158s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/ament_index/resource_index/package_run_dependencies/emcl2
+[53.170s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/ament_index/resource_index/parent_prefix_path/emcl2
+[53.181s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/ament_prefix_path.sh
+[53.191s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/ament_prefix_path.dsv
+[53.202s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/path.sh
+[53.213s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/environment/path.dsv
+[53.224s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.bash
+[53.235s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.sh
+[53.245s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.zsh
+[53.255s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/local_setup.dsv
+[53.266s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/package.dsv
+[53.277s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/ament_index/resource_index/packages/emcl2
+[53.288s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/ament_cmake_export_dependencies-extras.cmake
+[53.299s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/ament_cmake_export_include_directories-extras.cmake
+[53.310s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/emcl2Config.cmake
+[53.329s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/cmake/emcl2Config-version.cmake
+[53.340s] -- Symlinking: /home/chotaehyun/ugv_ws/install/emcl2/share/emcl2/package.xml
+[53.354s] Invoked command in '/home/chotaehyun/ugv_ws/build/emcl2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/emcl2

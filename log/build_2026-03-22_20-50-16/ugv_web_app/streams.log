@@ -1,0 +1,25 @@
+[3.924s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_web_app': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_web_app/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_web_app/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_web_app/build --no-deps symlink_data
+[7.291s] running develop
+[7.291s] running egg_info
+[7.292s] creating ugv_web_app.egg-info
+[7.292s] writing ugv_web_app.egg-info/PKG-INFO
+[7.292s] writing dependency_links to ugv_web_app.egg-info/dependency_links.txt
+[7.292s] writing entry points to ugv_web_app.egg-info/entry_points.txt
+[7.292s] writing requirements to ugv_web_app.egg-info/requires.txt
+[7.292s] writing top-level names to ugv_web_app.egg-info/top_level.txt
+[7.292s] writing manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+[7.292s] reading manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+[7.292s] writing manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+[7.292s] running build_ext
+[7.292s] Creating /home/chotaehyun/ugv_ws/install/ugv_web_app/lib/python3.10/site-packages/ugv-web-app.egg-link (link to .)
+[7.292s] 
+[7.292s] Installed /home/chotaehyun/ugv_ws/build/ugv_web_app
+[7.293s] running symlink_data
+[7.293s] creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index
+[7.293s] creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index/resource_index
+[7.293s] creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index/resource_index/packages
+[7.293s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_web_app/resource/ugv_web_app -> /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ament_index/resource_index/packages
+[7.293s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_web_app/package.xml -> /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ugv_web_app
+[7.293s] creating /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ugv_web_app/launch
+[7.293s] symbolically linking /home/chotaehyun/ugv_ws/build/ugv_web_app/launch/bringup.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_web_app/share/ugv_web_app/launch
+[7.310s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_web_app' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_web_app/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_web_app/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_web_app/build --no-deps symlink_data

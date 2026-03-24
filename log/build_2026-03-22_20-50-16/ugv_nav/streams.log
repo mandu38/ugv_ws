@@ -1,0 +1,69 @@
+[0.047s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_main/ugv_nav -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/ugv_nav
+[1.551s] -- The C compiler identification is GNU 11.4.0
+[1.552s] -- The CXX compiler identification is GNU 11.4.0
+[1.552s] -- Detecting C compiler ABI info
+[1.552s] -- Detecting C compiler ABI info - done
+[1.552s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.552s] -- Detecting C compile features
+[1.552s] -- Detecting C compile features - done
+[1.552s] -- Detecting CXX compiler ABI info
+[1.552s] -- Detecting CXX compiler ABI info - done
+[1.552s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.552s] -- Detecting CXX compile features
+[1.552s] -- Detecting CXX compile features - done
+[1.553s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.616s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.049s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.334s] -- Found nav2_bringup: 1.1.20 (/opt/ros/humble/share/nav2_bringup/cmake)
+[3.358s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.871s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.885s] -- Added test 'lint_cmake' to check CMake code style
+[3.887s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.910s] -- Added test 'xmllint' to check XML markup files
+[3.933s] -- Configuring done
+[3.966s] -- Generating done
+[3.966s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/ugv_nav
+[4.091s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_main/ugv_nav -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/ugv_nav
+[4.092s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_nav -- -j16 -l16
+[11.505s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_nav -- -j16 -l16
+[11.517s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_nav': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_nav
+[11.741s] -- Install configuration: ""
+[11.741s] -- Execute custom install script
+[11.741s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/bringup_launch.py
+[11.741s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav.launch.py
+[11.741s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/bringup_launch_cartographer.launch.py
+[11.741s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/cartographer_localization.launch.py
+[11.741s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/localization_launch.py
+[11.743s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_bringup/nav2_bringup.launch.py
+[11.776s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/nav_rtabmap.launch.py
+[11.812s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/rtabmap_localization_launch.py
+[11.857s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/launch/slam_nav.launch.py
+[11.896s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/amcl_dwa.yaml
+[11.936s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/amcl_teb.yaml
+[11.978s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/emcl_dwa.yaml
+[12.027s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/emcl_teb.yaml
+[12.066s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/rtabmap_dwa.yaml
+[12.109s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/rtabmap_teb.yaml
+[12.162s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/param/slam_nav.yaml
+[12.215s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map.pbstream
+[12.278s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map.pgm
+[12.338s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map.yaml
+[12.400s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/maps/map_server_params.yaml
+[12.457s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/rviz/view_nav_2d.rviz
+[12.508s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/rviz/view_nav_3d.rviz
+[12.565s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ament_index/resource_index/package_run_dependencies/ugv_nav
+[12.617s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ament_index/resource_index/parent_prefix_path/ugv_nav
+[12.659s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/ament_prefix_path.sh
+[12.703s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/ament_prefix_path.dsv
+[12.759s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/path.sh
+[12.805s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/environment/path.dsv
+[12.867s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.bash
+[12.918s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.sh
+[12.962s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.zsh
+[13.016s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/local_setup.dsv
+[13.072s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/package.dsv
+[13.131s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ament_index/resource_index/packages/ugv_nav
+[13.177s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/cmake/ugv_navConfig.cmake
+[13.233s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/cmake/ugv_navConfig-version.cmake
+[13.287s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_nav/share/ugv_nav/package.xml
+[13.587s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_nav' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_nav

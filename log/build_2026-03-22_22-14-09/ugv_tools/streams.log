@@ -1,0 +1,19 @@
+[1.578s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_tools': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_tools/build --no-deps symlink_data
+[1.861s] running develop
+[2.040s] running egg_info
+[2.040s] writing ugv_tools.egg-info/PKG-INFO
+[2.040s] writing dependency_links to ugv_tools.egg-info/dependency_links.txt
+[2.040s] writing entry points to ugv_tools.egg-info/entry_points.txt
+[2.040s] writing requirements to ugv_tools.egg-info/requires.txt
+[2.040s] writing top-level names to ugv_tools.egg-info/top_level.txt
+[2.042s] reading manifest file 'ugv_tools.egg-info/SOURCES.txt'
+[2.043s] writing manifest file 'ugv_tools.egg-info/SOURCES.txt'
+[2.044s] running build_ext
+[2.044s] Creating /home/chotaehyun/ugv_ws/install/ugv_tools/lib/python3.10/site-packages/ugv-tools.egg-link (link to .)
+[2.045s] Installing behavior_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_tools/lib/ugv_tools
+[2.045s] Installing joy_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_tools/lib/ugv_tools
+[2.045s] Installing keyboard_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_tools/lib/ugv_tools
+[2.045s] 
+[2.046s] Installed /home/chotaehyun/ugv_ws/build/ugv_tools
+[2.046s] running symlink_data
+[2.084s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_tools' returned '0': PYTHONPATH=/home/chotaehyun/ugv_ws/build/ugv_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chotaehyun/ugv_ws/install/ugv_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chotaehyun/ugv_ws/build/ugv_tools/build --no-deps symlink_data

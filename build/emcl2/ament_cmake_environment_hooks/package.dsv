@@ -1,0 +1,4 @@
+source;share/emcl2/local_setup.bash
+source;share/emcl2/local_setup.dsv
+source;share/emcl2/local_setup.sh
+source;share/emcl2/local_setup.zsh

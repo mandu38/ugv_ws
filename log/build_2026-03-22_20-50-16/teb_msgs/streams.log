@@ -1,0 +1,254 @@
+[0.049s] Invoking command in '/home/chotaehyun/ugv_ws/build/teb_msgs': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/lib:/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib:/home/chotaehyun/ugv_ws/install/ugv_interface/lib:/home/chotaehyun/ugv_ws/install/teb_local_planner/lib:/home/chotaehyun/ugv_ws/install/teb_msgs/lib:/home/chotaehyun/ugv_ws/install/openslam_gmapping/lib:/home/chotaehyun/ugv_ws/install/costmap_converter/lib:/home/chotaehyun/ugv_ws/install/apriltag_ros/lib:/home/chotaehyun/ugv_ws/install/apriltag_msgs/lib:/home/chotaehyun/ugv_ws/install/apriltag/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/teb_local_planner/teb_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/teb_msgs
+[2.676s] -- The C compiler identification is GNU 11.4.0
+[2.676s] -- The CXX compiler identification is GNU 11.4.0
+[2.676s] -- Detecting C compiler ABI info
+[2.676s] -- Detecting C compiler ABI info - done
+[2.676s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.676s] -- Detecting C compile features
+[2.676s] -- Detecting C compile features - done
+[2.676s] -- Detecting CXX compiler ABI info
+[2.676s] -- Detecting CXX compiler ABI info - done
+[2.676s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.676s] -- Detecting CXX compile features
+[2.677s] -- Detecting CXX compile features - done
+[2.677s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.677s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.677s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.677s] -- Found builtin_interfaces: 1.2.2 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[2.677s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.677s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.677s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.677s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.677s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.677s] -- Found costmap_converter_msgs: 0.1.2 (/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/share/costmap_converter_msgs/cmake)
+[2.680s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[3.526s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[4.806s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.195s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.257s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.264s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[5.333s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.333s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.333s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.334s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.384s] -- Found PythonExtra: .so  
+[5.567s] -- Configuring done
+[5.640s] -- Generating done
+[5.679s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/teb_msgs
+[5.721s] Invoked command in '/home/chotaehyun/ugv_ws/build/teb_msgs' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/lib:/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib:/home/chotaehyun/ugv_ws/install/ugv_interface/lib:/home/chotaehyun/ugv_ws/install/teb_local_planner/lib:/home/chotaehyun/ugv_ws/install/teb_msgs/lib:/home/chotaehyun/ugv_ws/install/openslam_gmapping/lib:/home/chotaehyun/ugv_ws/install/costmap_converter/lib:/home/chotaehyun/ugv_ws/install/apriltag_ros/lib:/home/chotaehyun/ugv_ws/install/apriltag_msgs/lib:/home/chotaehyun/ugv_ws/install/apriltag/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/teb_local_planner/teb_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/teb_msgs
+[5.723s] Invoking command in '/home/chotaehyun/ugv_ws/build/teb_msgs': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/lib:/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib:/home/chotaehyun/ugv_ws/install/ugv_interface/lib:/home/chotaehyun/ugv_ws/install/teb_local_planner/lib:/home/chotaehyun/ugv_ws/install/teb_msgs/lib:/home/chotaehyun/ugv_ws/install/openslam_gmapping/lib:/home/chotaehyun/ugv_ws/install/costmap_converter/lib:/home/chotaehyun/ugv_ws/install/apriltag_ros/lib:/home/chotaehyun/ugv_ws/install/apriltag_msgs/lib:/home/chotaehyun/ugv_ws/install/apriltag/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/teb_msgs -- -j16 -l16
+[5.868s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[5.890s] [  4%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.933s] [  4%] Built target ament_cmake_python_symlink_teb_msgs
+[6.742s] running egg_info
+[6.744s] creating teb_msgs.egg-info
+[6.748s] writing teb_msgs.egg-info/PKG-INFO
+[6.748s] writing dependency_links to teb_msgs.egg-info/dependency_links.txt
+[6.748s] writing top-level names to teb_msgs.egg-info/top_level.txt
+[6.748s] writing manifest file 'teb_msgs.egg-info/SOURCES.txt'
+[6.755s] reading manifest file 'teb_msgs.egg-info/SOURCES.txt'
+[6.760s] writing manifest file 'teb_msgs.egg-info/SOURCES.txt'
+[6.913s] [  4%] Built target ament_cmake_python_build_teb_msgs_egg
+[7.260s] [  4%] Built target teb_msgs__cpp
+[7.307s] [  6%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[7.314s] [  8%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[7.318s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[7.668s] [ 12%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_generator_c.dir/rosidl_generator_c/teb_msgs/msg/detail/feedback_msg__functions.c.o[0m
+[7.678s] [ 14%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_generator_c.dir/rosidl_generator_c/teb_msgs/msg/detail/trajectory_msg__functions.c.o[0m
+[7.685s] [ 17%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_generator_c.dir/rosidl_generator_c/teb_msgs/msg/detail/trajectory_point_msg__functions.c.o[0m
+[7.887s] [ 19%] [32m[1mLinking C shared library libteb_msgs__rosidl_generator_c.so[0m
+[8.079s] [ 19%] Built target teb_msgs__rosidl_generator_c
+[8.118s] [ 21%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[8.119s] [ 23%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[8.141s] [ 25%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[8.646s] [ 27%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/teb_msgs/msg/detail/dds_fastrtps/feedback_msg__type_support.cpp.o[0m
+[8.647s] [ 29%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/teb_msgs/msg/detail/dds_fastrtps/trajectory_msg__type_support.cpp.o[0m
+[8.664s] [ 31%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/teb_msgs/msg/detail/dds_fastrtps/trajectory_point_msg__type_support.cpp.o[0m
+[8.820s] [ 34%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/teb_msgs/msg/feedback_msg__type_support.cpp.o[0m
+[8.820s] [ 36%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/teb_msgs/msg/trajectory_msg__type_support.cpp.o[0m
+[8.830s] [ 38%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/teb_msgs/msg/trajectory_point_msg__type_support.cpp.o[0m
+[8.964s] [ 40%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/teb_msgs/msg/detail/trajectory_msg__type_support.cpp.o[0m
+[8.970s] [ 42%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/teb_msgs/msg/detail/feedback_msg__type_support.cpp.o[0m
+[8.984s] [ 44%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/teb_msgs/msg/detail/trajectory_point_msg__type_support.cpp.o[0m
+[9.797s] [ 46%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/teb_msgs/msg/feedback_msg__type_support.cpp.o[0m
+[9.812s] [ 48%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/teb_msgs/msg/trajectory_msg__type_support.cpp.o[0m
+[9.817s] [ 51%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/teb_msgs/msg/trajectory_point_msg__type_support.cpp.o[0m
+[9.909s] [ 53%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/teb_msgs/msg/detail/feedback_msg__type_support.c.o[0m
+[9.939s] [ 55%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/teb_msgs/msg/detail/trajectory_msg__type_support.c.o[0m
+[9.940s] [ 57%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/teb_msgs/msg/detail/trajectory_point_msg__type_support.c.o[0m
+[9.961s] [ 59%] [32m[1mLinking CXX shared library libteb_msgs__rosidl_typesupport_c.so[0m
+[10.008s] [ 61%] [32m[1mLinking CXX shared library libteb_msgs__rosidl_typesupport_cpp.so[0m
+[10.029s] [ 63%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/teb_msgs/msg/detail/feedback_msg__type_support_c.cpp.o[0m
+[10.038s] [ 65%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/teb_msgs/msg/detail/trajectory_msg__type_support_c.cpp.o[0m
+[10.050s] [ 68%] [32mBuilding CXX object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/teb_msgs/msg/detail/trajectory_point_msg__type_support_c.cpp.o[0m
+[10.136s] [ 70%] [32m[1mLinking C shared library libteb_msgs__rosidl_typesupport_introspection_c.so[0m
+[10.155s] [ 70%] Built target teb_msgs__rosidl_typesupport_c
+[10.220s] [ 70%] Built target teb_msgs__rosidl_typesupport_cpp
+[10.278s] [ 70%] Built target teb_msgs__rosidl_typesupport_introspection_c
+[10.289s] [ 72%] [32m[1mLinking CXX shared library libteb_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[10.702s] [ 72%] Built target teb_msgs__rosidl_typesupport_fastrtps_cpp
+[10.739s] [ 74%] [32m[1mLinking CXX shared library libteb_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[11.155s] [ 74%] Built target teb_msgs__rosidl_typesupport_introspection_cpp
+[11.231s] [ 76%] [32m[1mLinking CXX shared library libteb_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[11.620s] [ 76%] Built target teb_msgs__rosidl_typesupport_fastrtps_c
+[11.720s] [ 76%] Built target teb_msgs
+[11.805s] [ 78%] [34m[1mGenerating Python code for ROS interfaces[0m
+[14.373s] [ 78%] Built target teb_msgs__py
+[14.455s] [ 80%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_generator_py.dir/rosidl_generator_py/teb_msgs/msg/_feedback_msg_s.c.o[0m
+[14.972s] [ 82%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_generator_py.dir/rosidl_generator_py/teb_msgs/msg/_trajectory_point_msg_s.c.o[0m
+[15.220s] [ 85%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_generator_py.dir/rosidl_generator_py/teb_msgs/msg/_trajectory_msg_s.c.o[0m
+[15.583s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/teb_msgs/libteb_msgs__rosidl_generator_py.so[0m
+[15.799s] [ 87%] Built target teb_msgs__rosidl_generator_py
+[15.880s] [ 89%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/teb_msgs/_teb_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[16.296s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/teb_msgs/teb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[16.506s] [ 91%] Built target teb_msgs__rosidl_typesupport_fastrtps_c__pyext
+[16.601s] [ 93%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/teb_msgs/_teb_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[16.879s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/teb_msgs/teb_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[17.068s] [ 95%] Built target teb_msgs__rosidl_typesupport_c__pyext
+[17.157s] [ 97%] [32mBuilding C object CMakeFiles/teb_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/teb_msgs/_teb_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[17.512s] [100%] [32m[1mLinking C shared library rosidl_generator_py/teb_msgs/teb_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[17.714s] [100%] Built target teb_msgs__rosidl_typesupport_introspection_c__pyext
+[17.771s] Invoked command in '/home/chotaehyun/ugv_ws/build/teb_msgs' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/lib:/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib:/home/chotaehyun/ugv_ws/install/ugv_interface/lib:/home/chotaehyun/ugv_ws/install/teb_local_planner/lib:/home/chotaehyun/ugv_ws/install/teb_msgs/lib:/home/chotaehyun/ugv_ws/install/openslam_gmapping/lib:/home/chotaehyun/ugv_ws/install/costmap_converter/lib:/home/chotaehyun/ugv_ws/install/apriltag_ros/lib:/home/chotaehyun/ugv_ws/install/apriltag_msgs/lib:/home/chotaehyun/ugv_ws/install/apriltag/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/teb_msgs -- -j16 -l16
+[17.776s] Invoking command in '/home/chotaehyun/ugv_ws/build/teb_msgs': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/lib:/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib:/home/chotaehyun/ugv_ws/install/ugv_interface/lib:/home/chotaehyun/ugv_ws/install/teb_local_planner/lib:/home/chotaehyun/ugv_ws/install/teb_msgs/lib:/home/chotaehyun/ugv_ws/install/openslam_gmapping/lib:/home/chotaehyun/ugv_ws/install/costmap_converter/lib:/home/chotaehyun/ugv_ws/install/apriltag_ros/lib:/home/chotaehyun/ugv_ws/install/apriltag_msgs/lib:/home/chotaehyun/ugv_ws/install/apriltag/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/teb_msgs
+[18.567s] -- Install configuration: ""
+[18.567s] -- Execute custom install script
+[18.567s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/ament_index/resource_index/rosidl_interfaces/teb_msgs
+[18.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__functions.h
+[18.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__struct.h
+[18.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__type_support.h
+[18.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__functions.h
+[18.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__struct.h
+[18.568s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__type_support.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__functions.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__struct.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__type_support.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/feedback_msg.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/rosidl_generator_c__visibility_control.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/trajectory_msg.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/trajectory_point_msg.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/library_path.sh
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/library_path.dsv
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__rosidl_typesupport_fastrtps_c.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__rosidl_typesupport_fastrtps_c.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__rosidl_typesupport_fastrtps_c.h
+[18.569s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[18.570s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__builder.hpp
+[18.570s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__struct.hpp
+[18.570s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__traits.hpp
+[18.577s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__type_support.hpp
+[18.602s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__builder.hpp
+[18.630s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__struct.hpp
+[18.662s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__traits.hpp
+[18.703s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__type_support.hpp
+[18.740s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__builder.hpp
+[18.785s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__struct.hpp
+[18.820s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__traits.hpp
+[18.839s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__type_support.hpp
+[18.881s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/feedback_msg.hpp
+[18.920s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[18.960s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/trajectory_msg.hpp
+[19.000s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/trajectory_point_msg.hpp
+[19.039s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[19.078s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[19.118s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[19.155s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[19.180s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__rosidl_typesupport_introspection_c.h
+[19.223s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__rosidl_typesupport_introspection_c.h
+[19.244s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__rosidl_typesupport_introspection_c.h
+[19.283s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[19.325s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/feedback_msg__rosidl_typesupport_introspection_cpp.hpp
+[19.365s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_msg__rosidl_typesupport_introspection_cpp.hpp
+[19.398s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/include/teb_msgs/teb_msgs/msg/detail/trajectory_point_msg__rosidl_typesupport_introspection_cpp.hpp
+[19.435s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/pythonpath.sh
+[19.472s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/pythonpath.dsv
+[19.514s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs-0.0.1-py3.10.egg-info/PKG-INFO
+[19.543s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs-0.0.1-py3.10.egg-info/SOURCES.txt
+[19.575s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs-0.0.1-py3.10.egg-info/dependency_links.txt
+[19.606s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs-0.0.1-py3.10.egg-info/top_level.txt
+[19.645s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/__init__.py
+[19.675s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/_teb_msgs_s.ep.rosidl_typesupport_c.c
+[19.694s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/_teb_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[19.730s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/_teb_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[19.770s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/libteb_msgs__rosidl_generator_py.so
+[19.809s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/__init__.py
+[19.853s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_feedback_msg.py
+[19.892s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_feedback_msg_s.c
+[19.931s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_trajectory_msg.py
+[19.973s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_trajectory_msg_s.c
+[20.008s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_trajectory_point_msg.py
+[20.050s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_trajectory_point_msg_s.c
+[20.092s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/teb_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[20.133s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/teb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[20.170s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/teb_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[20.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/teb_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[20.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/teb_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[20.216s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/teb_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[20.220s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/msg/FeedbackMsg.idl
+[20.245s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/msg/TrajectoryMsg.idl
+[20.266s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/msg/TrajectoryPointMsg.idl
+[20.288s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/msg/FeedbackMsg.msg
+[20.328s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/msg/TrajectoryMsg.msg
+[20.361s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/msg/TrajectoryPointMsg.msg
+[20.399s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/ament_index/resource_index/package_run_dependencies/teb_msgs
+[20.436s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/ament_index/resource_index/parent_prefix_path/teb_msgs
+[20.484s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/ament_prefix_path.sh
+[20.521s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/ament_prefix_path.dsv
+[20.565s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/path.sh
+[20.589s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/environment/path.dsv
+[20.615s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/local_setup.bash
+[20.640s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/local_setup.sh
+[20.660s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/local_setup.zsh
+[20.681s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/local_setup.dsv
+[20.704s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/package.dsv
+[20.721s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/ament_index/resource_index/packages/teb_msgs
+[20.759s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/rosidl_cmake-extras.cmake
+[20.797s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[20.819s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[20.859s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[20.877s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[20.896s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[20.915s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[20.935s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgsConfig.cmake
+[20.952s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgsConfig-version.cmake
+[20.989s] -- Symlinking: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/package.xml
+[21.024s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_generator_c.so
+[21.025s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_generator_c.so" to ""
+[21.028s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_fastrtps_c.so
+[21.028s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[21.028s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_fastrtps_cpp.so
+[21.030s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[21.030s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_introspection_c.so
+[21.031s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_introspection_c.so" to ""
+[21.031s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_c.so
+[21.031s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_c.so" to ""
+[21.034s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_introspection_cpp.so
+[21.036s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[21.037s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_cpp.so
+[21.042s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_typesupport_cpp.so" to ""
+[21.212s] Listing '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs'...
+[21.212s] Compiling '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/__init__.py'...
+[21.212s] Listing '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg'...
+[21.212s] Compiling '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/__init__.py'...
+[21.212s] Compiling '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_feedback_msg.py'...
+[21.212s] Compiling '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_trajectory_msg.py'...
+[21.212s] Compiling '/home/chotaehyun/ugv_ws/install/teb_msgs/local/lib/python3.10/dist-packages/teb_msgs/msg/_trajectory_point_msg.py'...
+[21.244s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_generator_py.so
+[21.247s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/teb_msgs/lib/libteb_msgs__rosidl_generator_py.so" to ""
+[21.248s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_generator_cExport.cmake
+[21.251s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_generator_cExport-noconfig.cmake
+[21.251s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[21.256s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[21.256s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_generator_cppExport.cmake
+[21.256s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[21.256s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[21.263s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_introspection_cExport.cmake
+[21.263s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[21.263s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_cExport.cmake
+[21.263s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[21.263s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[21.263s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[21.264s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_cppExport.cmake
+[21.265s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/teb_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[21.273s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_generator_pyExport.cmake
+[21.273s] -- Installing: /home/chotaehyun/ugv_ws/install/teb_msgs/share/teb_msgs/cmake/export_teb_msgs__rosidl_generator_pyExport-noconfig.cmake
+[21.295s] Invoked command in '/home/chotaehyun/ugv_ws/build/teb_msgs' returned '0': CMAKE_PREFIX_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs:/home/chotaehyun/ugv_ws/install/vizanti:/home/chotaehyun/ugv_ws/install/vizanti_server:/home/chotaehyun/ugv_ws/install/vizanti_demos:/home/chotaehyun/ugv_ws/install/vizanti_msgs:/home/chotaehyun/ugv_ws/install/vizanti_cpp:/home/chotaehyun/ugv_ws/install/ugv_slam:/home/chotaehyun/ugv_ws/install/ugv_nav:/home/chotaehyun/ugv_ws/install/ugv_interface:/home/chotaehyun/ugv_ws/install/ugv_gazebo:/home/chotaehyun/ugv_ws/install/ugv_description:/home/chotaehyun/ugv_ws/install/ugv_base_node:/home/chotaehyun/ugv_ws/install/teb_local_planner:/home/chotaehyun/ugv_ws/install/teb_msgs:/home/chotaehyun/ugv_ws/install/slam_gmapping:/home/chotaehyun/ugv_ws/install/robot_pose_publisher:/home/chotaehyun/ugv_ws/install/rf2o_laser_odometry:/home/chotaehyun/ugv_ws/install/openslam_gmapping:/home/chotaehyun/ugv_ws/install/ldlidar:/home/chotaehyun/ugv_ws/install/explore_lite:/home/chotaehyun/ugv_ws/install/emcl2:/home/chotaehyun/ugv_ws/install/costmap_converter:/home/chotaehyun/ugv_ws/install/cartographer:/home/chotaehyun/ugv_ws/install/apriltag_ros:/home/chotaehyun/ugv_ws/install/apriltag_msgs:/home/chotaehyun/ugv_ws/install/apriltag:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble LD_LIBRARY_PATH=/home/chotaehyun/ugv_ws/install/costmap_converter_msgs/lib:/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib:/home/chotaehyun/ugv_ws/install/ugv_interface/lib:/home/chotaehyun/ugv_ws/install/teb_local_planner/lib:/home/chotaehyun/ugv_ws/install/teb_msgs/lib:/home/chotaehyun/ugv_ws/install/openslam_gmapping/lib:/home/chotaehyun/ugv_ws/install/costmap_converter/lib:/home/chotaehyun/ugv_ws/install/apriltag_ros/lib:/home/chotaehyun/ugv_ws/install/apriltag_msgs/lib:/home/chotaehyun/ugv_ws/install/apriltag/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/teb_msgs

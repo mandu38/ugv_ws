@@ -1,0 +1,455 @@
+[0.080s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/vizanti_msgs
+[1.058s] -- The C compiler identification is GNU 11.4.0
+[1.058s] -- The CXX compiler identification is GNU 11.4.0
+[1.058s] -- Detecting C compiler ABI info
+[1.058s] -- Detecting C compiler ABI info - done
+[1.058s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.058s] -- Detecting C compile features
+[1.058s] -- Detecting C compile features - done
+[1.058s] -- Detecting CXX compiler ABI info
+[1.058s] -- Detecting CXX compiler ABI info - done
+[1.059s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.059s] -- Detecting CXX compile features
+[1.059s] -- Detecting CXX compile features - done
+[1.059s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.059s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.125s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.195s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.209s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.229s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.346s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.456s] -- Found std_msgs: 4.9.1 (/opt/ros/humble/share/std_msgs/cmake)
+[1.514s] -- Found nav_msgs: 4.9.1 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.576s] -- Found actionlib_msgs: 4.9.1 (/opt/ros/humble/share/actionlib_msgs/cmake)
+[2.468s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.679s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.125s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.216s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.228s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[5.353s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.355s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.355s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.355s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.508s] -- Found PythonExtra: .so  
+[6.020s] -- Configuring done
+[6.407s] -- Generating done
+[6.506s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/vizanti_msgs
+[7.806s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/vizanti/vizanti_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/vizanti_msgs
+[7.821s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/vizanti_msgs -- -j16 -l16
+[14.852s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[14.852s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[14.852s] [  1%] Built target ament_cmake_python_symlink_vizanti_msgs
+[14.853s] running egg_info
+[14.853s] creating vizanti_msgs.egg-info
+[14.853s] writing vizanti_msgs.egg-info/PKG-INFO
+[14.853s] writing dependency_links to vizanti_msgs.egg-info/dependency_links.txt
+[14.853s] writing top-level names to vizanti_msgs.egg-info/top_level.txt
+[14.853s] writing manifest file 'vizanti_msgs.egg-info/SOURCES.txt'
+[14.853s] reading manifest file 'vizanti_msgs.egg-info/SOURCES.txt'
+[14.853s] writing manifest file 'vizanti_msgs.egg-info/SOURCES.txt'
+[14.853s] [  1%] Built target ament_cmake_python_build_vizanti_msgs_egg
+[14.853s] [  2%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/set_node_parameter__functions.c.o[0m
+[14.853s] [  4%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/load_map__functions.c.o[0m
+[14.853s] [  4%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/get_node_parameters__functions.c.o[0m
+[14.854s] [  5%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/save_map__functions.c.o[0m
+[14.854s] [  6%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/record_rosbag__functions.c.o[0m
+[14.854s] [  7%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/launches__functions.c.o[0m
+[14.854s] [  8%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/manage_node__functions.c.o[0m
+[14.854s] [  9%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/list_executables__functions.c.o[0m
+[14.854s] [ 10%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/list_packages__functions.c.o[0m
+[14.854s] [ 11%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_c.dir/rosidl_generator_c/vizanti_msgs/srv/detail/manage_launch__functions.c.o[0m
+[14.854s] [ 11%] Built target vizanti_msgs__cpp
+[14.854s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[14.854s] [ 13%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[14.854s] [ 14%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[14.854s] [ 15%] [32m[1mLinking C shared library libvizanti_msgs__rosidl_generator_c.so[0m
+[14.854s] [ 15%] Built target vizanti_msgs__rosidl_generator_c
+[14.855s] [ 16%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[14.855s] [ 17%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[14.855s] [ 18%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[14.855s] [ 19%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/load_map__type_support.cpp.o[0m
+[14.855s] [ 20%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/set_node_parameter__type_support.cpp.o[0m
+[14.858s] [ 22%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/record_rosbag__type_support.cpp.o[0m
+[14.858s] [ 22%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/get_node_parameters__type_support.cpp.o[0m
+[14.858s] [ 23%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/launches__type_support.cpp.o[0m
+[14.859s] [ 24%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/save_map__type_support.cpp.o[0m
+[14.859s] [ 25%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/list_packages__type_support.cpp.o[0m
+[14.871s] [ 26%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/manage_node__type_support.cpp.o[0m
+[14.871s] [ 27%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/manage_launch__type_support.cpp.o[0m
+[14.871s] [ 28%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/vizanti_msgs/srv/list_executables__type_support.cpp.o[0m
+[14.872s] [ 29%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/get_node_parameters__type_support.cpp.o[0m
+[14.872s] [ 30%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/set_node_parameter__type_support.cpp.o[0m
+[14.872s] [ 31%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/get_node_parameters__type_support.cpp.o[0m
+[14.872s] [ 32%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/set_node_parameter__type_support.cpp.o[0m
+[14.872s] [ 33%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/save_map__type_support.cpp.o[0m
+[14.995s] [ 34%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/save_map__type_support.cpp.o[0m
+[15.052s] [ 35%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/load_map__type_support.cpp.o[0m
+[15.131s] [ 36%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/load_map__type_support.cpp.o[0m
+[15.240s] [ 37%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/launches__type_support.cpp.o[0m
+[15.308s] [ 38%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/get_node_parameters__type_support.cpp.o[0m
+[15.310s] [ 39%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/record_rosbag__type_support.cpp.o[0m
+[15.403s] [ 40%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/manage_node__type_support.cpp.o[0m
+[15.440s] [ 41%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/launches__type_support.cpp.o[0m
+[15.465s] [ 42%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/record_rosbag__type_support.cpp.o[0m
+[15.507s] [ 43%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/set_node_parameter__type_support.cpp.o[0m
+[15.550s] [ 44%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/manage_node__type_support.cpp.o[0m
+[15.574s] [ 45%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/manage_launch__type_support.cpp.o[0m
+[15.651s] [ 45%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/save_map__type_support.cpp.o[0m
+[15.669s] [ 46%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/get_node_parameters__type_support.c.o[0m
+[15.673s] [ 47%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/manage_launch__type_support.cpp.o[0m
+[15.679s] [ 48%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/set_node_parameter__type_support.c.o[0m
+[15.713s] [ 48%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/list_packages__type_support.cpp.o[0m
+[15.811s] [ 49%] [32m[1mLinking CXX shared library libvizanti_msgs__rosidl_typesupport_cpp.so[0m
+[15.871s] [ 50%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/save_map__type_support.c.o[0m
+[15.896s] [ 51%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/load_map__type_support.cpp.o[0m
+[15.896s] [ 52%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/vizanti_msgs/srv/list_executables__type_support.cpp.o[0m
+[16.041s] [ 52%] Built target vizanti_msgs__rosidl_typesupport_cpp
+[16.096s] [ 53%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/list_packages__type_support.cpp.o[0m
+[16.097s] [ 54%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/load_map__type_support.c.o[0m
+[16.103s] [ 55%] [32m[1mLinking CXX shared library libvizanti_msgs__rosidl_typesupport_c.so[0m
+[16.207s] [ 56%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vizanti_msgs/srv/detail/list_executables__type_support.cpp.o[0m
+[16.284s] [ 57%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/launches__type_support.c.o[0m
+[16.354s] [ 57%] Built target vizanti_msgs__rosidl_typesupport_c
+[16.386s] [ 58%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/record_rosbag__type_support.c.o[0m
+[16.493s] [ 59%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/launches__type_support.cpp.o[0m
+[16.511s] [ 60%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/manage_node__type_support.c.o[0m
+[16.603s] [ 61%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/record_rosbag__type_support.cpp.o[0m
+[16.648s] [ 62%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/manage_node__type_support.cpp.o[0m
+[16.689s] [ 63%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/manage_launch__type_support.c.o[0m
+[16.854s] [ 64%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/manage_launch__type_support.cpp.o[0m
+[16.895s] [ 65%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/list_packages__type_support.c.o[0m
+[17.136s] [ 66%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/vizanti_msgs/srv/detail/list_executables__type_support.c.o[0m
+[17.160s] [ 67%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/list_packages__type_support.cpp.o[0m
+[17.219s] [ 68%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/vizanti_msgs/srv/detail/dds_fastrtps/list_executables__type_support.cpp.o[0m
+[17.358s] [ 69%] [32m[1mLinking C shared library libvizanti_msgs__rosidl_typesupport_introspection_c.so[0m
+[17.416s] [ 70%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/set_node_parameter__type_support_c.cpp.o[0m
+[17.416s] [ 71%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/get_node_parameters__type_support_c.cpp.o[0m
+[17.425s] [ 72%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/save_map__type_support_c.cpp.o[0m
+[17.431s] [ 73%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/load_map__type_support_c.cpp.o[0m
+[17.463s] [ 74%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/launches__type_support_c.cpp.o[0m
+[17.497s] [ 75%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/record_rosbag__type_support_c.cpp.o[0m
+[17.566s] [ 75%] Built target vizanti_msgs__rosidl_typesupport_introspection_c
+[17.625s] [ 76%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/manage_node__type_support_c.cpp.o[0m
+[17.968s] [ 77%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/manage_launch__type_support_c.cpp.o[0m
+[18.014s] [ 78%] [32m[1mLinking CXX shared library libvizanti_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[18.023s] [ 79%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/list_packages__type_support_c.cpp.o[0m
+[18.306s] [ 80%] [32mBuilding CXX object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/vizanti_msgs/srv/detail/list_executables__type_support_c.cpp.o[0m
+[18.464s] [ 80%] Built target vizanti_msgs__rosidl_typesupport_introspection_cpp
+[19.126s] [ 81%] [32m[1mLinking CXX shared library libvizanti_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[19.418s] [ 81%] Built target vizanti_msgs__rosidl_typesupport_fastrtps_cpp
+[19.439s] [ 82%] [32m[1mLinking CXX shared library libvizanti_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[19.825s] [ 82%] Built target vizanti_msgs__rosidl_typesupport_fastrtps_c
+[19.916s] [ 82%] Built target vizanti_msgs
+[20.009s] [ 83%] [34m[1mGenerating Python code for ROS interfaces[0m
+[23.458s] [ 83%] Built target vizanti_msgs__py
+[23.541s] [ 84%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_set_node_parameter_s.c.o[0m
+[23.543s] [ 85%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_launches_s.c.o[0m
+[23.547s] [ 87%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_get_node_parameters_s.c.o[0m
+[23.553s] [ 87%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_save_map_s.c.o[0m
+[23.553s] [ 88%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_manage_node_s.c.o[0m
+[23.557s] [ 89%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_manage_launch_s.c.o[0m
+[23.562s] [ 90%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_load_map_s.c.o[0m
+[23.572s] [ 91%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_record_rosbag_s.c.o[0m
+[23.572s] [ 92%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_list_packages_s.c.o[0m
+[23.792s] [ 93%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_generator_py.dir/rosidl_generator_py/vizanti_msgs/srv/_list_executables_s.c.o[0m
+[24.032s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/vizanti_msgs/libvizanti_msgs__rosidl_generator_py.so[0m
+[24.171s] [ 94%] Built target vizanti_msgs__rosidl_generator_py
+[24.242s] [ 95%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/vizanti_msgs/_vizanti_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[24.245s] [ 96%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/vizanti_msgs/_vizanti_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[24.258s] [ 97%] [32mBuilding C object CMakeFiles/vizanti_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/vizanti_msgs/_vizanti_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[24.564s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[24.600s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[24.708s] [ 99%] Built target vizanti_msgs__rosidl_typesupport_introspection_c__pyext
+[24.717s] [100%] [32m[1mLinking C shared library rosidl_generator_py/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[24.745s] [100%] Built target vizanti_msgs__rosidl_typesupport_fastrtps_c__pyext
+[24.850s] [100%] Built target vizanti_msgs__rosidl_typesupport_c__pyext
+[24.903s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/vizanti_msgs -- -j16 -l16
+[24.907s] Invoking command in '/home/chotaehyun/ugv_ws/build/vizanti_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/vizanti_msgs
+[25.440s] -- Install configuration: ""
+[25.440s] -- Execute custom install script
+[25.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/ament_index/resource_index/rosidl_interfaces/vizanti_msgs
+[25.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/msg/rosidl_generator_c__visibility_control.h
+[25.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__functions.h
+[25.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__struct.h
+[25.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__type_support.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__functions.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__struct.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__type_support.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__functions.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__struct.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__type_support.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__functions.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__struct.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__type_support.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__functions.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__struct.h
+[25.441s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__type_support.h
+[25.442s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__functions.h
+[25.442s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__struct.h
+[25.442s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__type_support.h
+[25.456s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__functions.h
+[25.474s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__struct.h
+[25.495s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__type_support.h
+[25.514s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__functions.h
+[25.534s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__struct.h
+[25.552s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__type_support.h
+[25.571s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__functions.h
+[25.589s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__struct.h
+[25.609s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__type_support.h
+[25.627s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__functions.h
+[25.646s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__struct.h
+[25.664s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__type_support.h
+[25.683s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/get_node_parameters.h
+[25.700s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/launches.h
+[25.718s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/list_executables.h
+[25.735s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/list_packages.h
+[25.754s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/load_map.h
+[25.770s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/manage_launch.h
+[25.788s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/manage_node.h
+[25.807s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/record_rosbag.h
+[25.826s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/save_map.h
+[25.847s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/set_node_parameter.h
+[25.865s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/library_path.sh
+[25.886s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/library_path.dsv
+[25.905s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[25.924s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__rosidl_typesupport_fastrtps_c.h
+[25.948s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__rosidl_typesupport_fastrtps_c.h
+[25.966s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__rosidl_typesupport_fastrtps_c.h
+[25.983s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__rosidl_typesupport_fastrtps_c.h
+[26.001s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__rosidl_typesupport_fastrtps_c.h
+[26.019s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__rosidl_typesupport_fastrtps_c.h
+[26.038s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__rosidl_typesupport_fastrtps_c.h
+[26.060s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__rosidl_typesupport_fastrtps_c.h
+[26.076s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__rosidl_typesupport_fastrtps_c.h
+[26.092s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__rosidl_typesupport_fastrtps_c.h
+[26.110s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[26.132s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__rosidl_typesupport_introspection_c.h
+[26.157s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__rosidl_typesupport_introspection_c.h
+[26.204s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__rosidl_typesupport_introspection_c.h
+[26.247s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__rosidl_typesupport_introspection_c.h
+[26.280s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__rosidl_typesupport_introspection_c.h
+[26.313s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__rosidl_typesupport_introspection_c.h
+[26.349s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__rosidl_typesupport_introspection_c.h
+[26.385s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__rosidl_typesupport_introspection_c.h
+[26.423s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__rosidl_typesupport_introspection_c.h
+[26.462s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__rosidl_typesupport_introspection_c.h
+[26.502s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[26.535s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__builder.hpp
+[26.570s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__struct.hpp
+[26.597s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__traits.hpp
+[26.616s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__type_support.hpp
+[26.634s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__builder.hpp
+[26.652s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__struct.hpp
+[26.670s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__traits.hpp
+[26.688s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__type_support.hpp
+[26.708s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__builder.hpp
+[26.725s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__struct.hpp
+[26.743s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__traits.hpp
+[26.763s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__type_support.hpp
+[26.780s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__builder.hpp
+[26.800s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__struct.hpp
+[26.818s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__traits.hpp
+[26.836s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__type_support.hpp
+[26.855s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__builder.hpp
+[26.873s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__struct.hpp
+[26.891s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__traits.hpp
+[26.911s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__type_support.hpp
+[26.929s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__builder.hpp
+[26.948s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__struct.hpp
+[26.967s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__traits.hpp
+[26.986s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__type_support.hpp
+[27.006s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__builder.hpp
+[27.026s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__struct.hpp
+[27.044s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__traits.hpp
+[27.064s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__type_support.hpp
+[27.083s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__builder.hpp
+[27.102s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__struct.hpp
+[27.123s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__traits.hpp
+[27.142s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__type_support.hpp
+[27.162s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__builder.hpp
+[27.182s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__struct.hpp
+[27.202s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__traits.hpp
+[27.222s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__type_support.hpp
+[27.242s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__builder.hpp
+[27.262s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__struct.hpp
+[27.282s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__traits.hpp
+[27.300s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__type_support.hpp
+[27.322s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/get_node_parameters.hpp
+[27.341s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/launches.hpp
+[27.361s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/list_executables.hpp
+[27.381s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/list_packages.hpp
+[27.401s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/load_map.hpp
+[27.420s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/manage_launch.hpp
+[27.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/manage_node.hpp
+[27.460s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/record_rosbag.hpp
+[27.479s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/save_map.hpp
+[27.499s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/set_node_parameter.hpp
+[27.520s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[27.540s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__rosidl_typesupport_fastrtps_cpp.hpp
+[27.559s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__rosidl_typesupport_fastrtps_cpp.hpp
+[27.578s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__rosidl_typesupport_fastrtps_cpp.hpp
+[27.599s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__rosidl_typesupport_fastrtps_cpp.hpp
+[27.618s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__rosidl_typesupport_fastrtps_cpp.hpp
+[27.638s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__rosidl_typesupport_fastrtps_cpp.hpp
+[27.677s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__rosidl_typesupport_fastrtps_cpp.hpp
+[27.706s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__rosidl_typesupport_fastrtps_cpp.hpp
+[27.730s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__rosidl_typesupport_fastrtps_cpp.hpp
+[27.749s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__rosidl_typesupport_fastrtps_cpp.hpp
+[27.774s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/get_node_parameters__rosidl_typesupport_introspection_cpp.hpp
+[27.799s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/launches__rosidl_typesupport_introspection_cpp.hpp
+[27.811s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_executables__rosidl_typesupport_introspection_cpp.hpp
+[27.830s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/list_packages__rosidl_typesupport_introspection_cpp.hpp
+[27.851s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/load_map__rosidl_typesupport_introspection_cpp.hpp
+[27.871s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_launch__rosidl_typesupport_introspection_cpp.hpp
+[27.892s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/manage_node__rosidl_typesupport_introspection_cpp.hpp
+[27.931s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/record_rosbag__rosidl_typesupport_introspection_cpp.hpp
+[27.969s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/save_map__rosidl_typesupport_introspection_cpp.hpp
+[28.012s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/include/vizanti_msgs/vizanti_msgs/srv/detail/set_node_parameter__rosidl_typesupport_introspection_cpp.hpp
+[28.044s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/pythonpath.sh
+[28.081s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/pythonpath.dsv
+[28.117s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs-0.1.0-py3.10.egg-info/PKG-INFO
+[28.148s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs-0.1.0-py3.10.egg-info/SOURCES.txt
+[28.168s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs-0.1.0-py3.10.egg-info/dependency_links.txt
+[28.192s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs-0.1.0-py3.10.egg-info/top_level.txt
+[28.211s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/__init__.py
+[28.232s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/_vizanti_msgs_s.ep.rosidl_typesupport_c.c
+[28.253s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/_vizanti_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[28.274s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/_vizanti_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[28.295s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/libvizanti_msgs__rosidl_generator_py.so
+[28.317s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/__init__.py
+[28.358s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_get_node_parameters.py
+[28.399s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_get_node_parameters_s.c
+[28.435s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_launches.py
+[28.477s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_launches_s.c
+[28.515s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_list_executables.py
+[28.540s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_list_executables_s.c
+[28.559s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_list_packages.py
+[28.579s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_list_packages_s.c
+[28.603s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_load_map.py
+[28.640s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_load_map_s.c
+[28.680s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_manage_launch.py
+[28.719s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_manage_launch_s.c
+[28.742s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_manage_node.py
+[28.778s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_manage_node_s.c
+[28.821s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_record_rosbag.py
+[28.862s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_record_rosbag_s.c
+[28.903s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_save_map.py
+[28.942s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_save_map_s.c
+[28.978s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_set_node_parameter.py
+[29.017s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_set_node_parameter_s.c
+[29.056s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[29.095s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[29.138s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[29.174s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[29.178s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[29.178s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/vizanti_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[29.179s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/GetNodeParameters.idl
+[29.221s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SetNodeParameter.idl
+[29.258s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SaveMap.idl
+[29.296s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/LoadMap.idl
+[29.333s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/Launches.idl
+[29.372s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/RecordRosbag.idl
+[29.408s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageNode.idl
+[29.449s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageLaunch.idl
+[29.489s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListPackages.idl
+[29.522s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListExecutables.idl
+[29.562s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/GetNodeParameters.srv
+[29.613s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/GetNodeParameters_Request.msg
+[29.651s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/GetNodeParameters_Response.msg
+[29.689s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SetNodeParameter.srv
+[29.734s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SetNodeParameter_Request.msg
+[29.766s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SetNodeParameter_Response.msg
+[29.803s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SaveMap.srv
+[29.856s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SaveMap_Request.msg
+[29.917s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/SaveMap_Response.msg
+[29.973s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/LoadMap.srv
+[30.026s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/LoadMap_Request.msg
+[30.083s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/LoadMap_Response.msg
+[30.142s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/Launches.srv
+[30.183s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/Launches_Request.msg
+[30.224s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/Launches_Response.msg
+[30.279s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/RecordRosbag.srv
+[30.330s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/RecordRosbag_Request.msg
+[30.386s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/RecordRosbag_Response.msg
+[30.440s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageNode.srv
+[30.479s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageNode_Request.msg
+[30.515s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageNode_Response.msg
+[30.552s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageLaunch.srv
+[30.590s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageLaunch_Request.msg
+[30.628s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ManageLaunch_Response.msg
+[30.668s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListPackages.srv
+[30.705s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListPackages_Request.msg
+[30.744s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListPackages_Response.msg
+[30.780s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListExecutables.srv
+[30.817s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListExecutables_Request.msg
+[30.860s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/srv/ListExecutables_Response.msg
+[30.896s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/ament_index/resource_index/package_run_dependencies/vizanti_msgs
+[30.935s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/ament_index/resource_index/parent_prefix_path/vizanti_msgs
+[30.961s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/ament_prefix_path.sh
+[30.980s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/ament_prefix_path.dsv
+[30.996s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/path.sh
+[31.017s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/environment/path.dsv
+[31.038s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/local_setup.bash
+[31.059s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/local_setup.sh
+[31.079s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/local_setup.zsh
+[31.100s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/local_setup.dsv
+[31.119s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/package.dsv
+[31.141s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/ament_index/resource_index/packages/vizanti_msgs
+[31.162s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/rosidl_cmake-extras.cmake
+[31.201s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[31.232s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[31.266s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[31.294s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[31.314s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[31.335s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[31.356s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgsConfig.cmake
+[31.377s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgsConfig-version.cmake
+[31.407s] -- Symlinking: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/package.xml
+[31.427s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_generator_c.so
+[31.429s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_generator_c.so" to ""
+[31.430s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_fastrtps_c.so
+[31.431s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[31.432s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_introspection_c.so
+[31.433s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_introspection_c.so" to ""
+[31.435s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_c.so
+[31.435s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_c.so" to ""
+[31.436s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_fastrtps_cpp.so
+[31.438s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[31.439s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_introspection_cpp.so
+[31.439s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[31.440s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_cpp.so
+[31.442s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_typesupport_cpp.so" to ""
+[31.597s] Listing '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/__init__.py'...
+[31.598s] Listing '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/__init__.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_get_node_parameters.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_launches.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_list_executables.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_list_packages.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_load_map.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_manage_launch.py'...
+[31.598s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_manage_node.py'...
+[31.599s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_record_rosbag.py'...
+[31.599s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_save_map.py'...
+[31.599s] Compiling '/home/chotaehyun/ugv_ws/install/vizanti_msgs/local/lib/python3.10/dist-packages/vizanti_msgs/srv/_set_node_parameter.py'...
+[31.613s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_generator_py.so
+[31.615s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/vizanti_msgs/lib/libvizanti_msgs__rosidl_generator_py.so" to ""
+[31.615s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_generator_cExport.cmake
+[31.619s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_generator_cExport-noconfig.cmake
+[31.619s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[31.626s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[31.627s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_introspection_cExport.cmake
+[31.627s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[31.627s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_cExport.cmake
+[31.627s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[31.627s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_generator_cppExport.cmake
+[31.627s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[31.633s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[31.635s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[31.635s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[31.635s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_cppExport.cmake
+[31.635s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/vizanti_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[31.635s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_generator_pyExport.cmake
+[31.643s] -- Installing: /home/chotaehyun/ugv_ws/install/vizanti_msgs/share/vizanti_msgs/cmake/export_vizanti_msgs__rosidl_generator_pyExport-noconfig.cmake
+[31.654s] Invoked command in '/home/chotaehyun/ugv_ws/build/vizanti_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/vizanti_msgs

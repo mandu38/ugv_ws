@@ -1,0 +1,65 @@
+[0.335s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_gazebo -- -j16 -l16
+[1.631s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_gazebo -- -j16 -l16
+[1.633s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_gazebo
+[1.699s] -- Install configuration: ""
+[1.699s] -- Execute custom install script
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/rviz/display.rviz
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/rviz/view_nav_2d.rviz
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/rviz/view_nav_3d.rviz
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/rviz/view_slam_2d.rviz
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/rviz/view_slam_3d.rviz
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/bringup/bringup.launch.py
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/bringup/bringup_test.launch.py
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/bringup/robot_state_publisher.launch.py
+[1.699s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/bringup/spawn_ugv.launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/display.launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav/nav.launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav/nav_rtabmap.launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav/rtabmap_localization_launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav_bringup/bringup_launch_cartographer.launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav_bringup/localization_launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav_bringup/nav2_bringup.launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/nav_bringup/navigation_launch.py
+[1.700s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/slam/cartographer.launch.py
+[1.704s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/slam/gmapping.launch.py
+[1.718s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/slam/rtabmap_rgbd.launch.py
+[1.719s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/launch/slam_nav/slam_nav.launch.py
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/urdf/rasp_rover.urdf
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/urdf/ugv_beast.urdf
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/urdf/ugv_rover.urdf
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/worlds/ugv_world.world
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/rasp_rover/model.config
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/rasp_rover/model.sdf
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/ugv_beast/model.config
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/ugv_beast/model.sdf
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/ugv_rover/model.config
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/ugv_rover/model.sdf
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/world/model.config
+[1.720s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/models/world/model.sdf
+[1.721s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/amcl_dwa.yaml
+[1.721s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/amcl_teb.yaml
+[1.769s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/emcl_dwa.yaml
+[1.769s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/emcl_teb.yaml
+[1.769s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/rtabmap_dwa.yaml
+[1.769s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/rtabmap_teb.yaml
+[1.769s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/param/slam_nav.yaml
+[1.773s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/maps/map.pbstream
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/maps/map.pgm
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/maps/map.yaml
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ament_index/resource_index/package_run_dependencies/ugv_gazebo
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ament_index/resource_index/parent_prefix_path/ugv_gazebo
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/environment/ament_prefix_path.sh
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/environment/ament_prefix_path.dsv
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/environment/path.sh
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/environment/path.dsv
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/local_setup.bash
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/local_setup.sh
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/local_setup.zsh
+[1.774s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/local_setup.dsv
+[1.774s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/package.dsv
+[1.775s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ament_index/resource_index/packages/ugv_gazebo
+[1.775s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.775s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/cmake/ugv_gazeboConfig.cmake
+[1.775s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/cmake/ugv_gazeboConfig-version.cmake
+[1.775s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_gazebo/share/ugv_gazebo/package.xml
+[1.802s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_gazebo

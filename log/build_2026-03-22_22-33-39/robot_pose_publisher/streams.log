@@ -1,0 +1,24 @@
+[0.753s] Invoking command in '/home/chotaehyun/ugv_ws/build/robot_pose_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/robot_pose_publisher -- -j16 -l16
+[1.451s] [100%] Built target robot_pose_publisher
+[1.499s] Invoked command in '/home/chotaehyun/ugv_ws/build/robot_pose_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/robot_pose_publisher -- -j16 -l16
+[1.503s] Invoking command in '/home/chotaehyun/ugv_ws/build/robot_pose_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/robot_pose_publisher
+[1.606s] -- Install configuration: ""
+[1.606s] -- Execute custom install script
+[1.606s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/lib/robot_pose_publisher/robot_pose_publisher
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/launch/robot_pose_publisher_launch.py
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/ament_index/resource_index/package_run_dependencies/robot_pose_publisher
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/ament_index/resource_index/parent_prefix_path/robot_pose_publisher
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/ament_prefix_path.sh
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/ament_prefix_path.dsv
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/path.sh
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/environment/path.dsv
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.bash
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.sh
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.zsh
+[1.607s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/local_setup.dsv
+[1.607s] -- Symlinking: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/package.dsv
+[1.625s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/ament_index/resource_index/packages/robot_pose_publisher
+[1.630s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake
+[1.631s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake
+[1.632s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/robot_pose_publisher/share/robot_pose_publisher/package.xml
+[1.811s] Invoked command in '/home/chotaehyun/ugv_ws/build/robot_pose_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/robot_pose_publisher

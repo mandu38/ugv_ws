@@ -1,0 +1,21 @@
+[ 75%] Built target base_node
+[100%] Built target base_node_ekf
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/lib/ugv_base_node/base_node
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/lib/ugv_base_node/base_node_ekf
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ament_index/resource_index/package_run_dependencies/ugv_base_node
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ament_index/resource_index/parent_prefix_path/ugv_base_node
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/path.sh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/path.dsv
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.bash
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.sh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.zsh
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.dsv
+-- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/package.dsv
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ament_index/resource_index/packages/ugv_base_node
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/cmake/ugv_base_nodeConfig.cmake
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/cmake/ugv_base_nodeConfig-version.cmake
+-- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/package.xml

@@ -1,0 +1,127 @@
+[0.077s] Invoking command in '/home/chotaehyun/ugv_ws/build/apriltag': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/apriltag_ros/apriltag -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/apriltag
+[1.055s] -- The C compiler identification is GNU 11.4.0
+[1.055s] -- Detecting C compiler ABI info
+[1.055s] -- Detecting C compiler ABI info - done
+[1.055s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.056s] -- Detecting C compile features
+[1.056s] -- Detecting C compile features - done
+[1.056s] -- Setting build type to 'Release' as none was specified.
+[1.056s] -- Looking for pthread.h
+[1.056s] -- Looking for pthread.h - found
+[1.056s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.056s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.056s] -- Found Threads: TRUE  
+[1.871s] -- The CXX compiler identification is GNU 11.4.0
+[1.890s] -- Detecting CXX compiler ABI info
+[2.084s] -- Detecting CXX compiler ABI info - done
+[2.099s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.100s] -- Detecting CXX compile features
+[2.101s] -- Detecting CXX compile features - done
+[2.103s] -- Configuring done
+[2.127s] -- Generating done
+[2.139s] -- Build files have been written to: /home/chotaehyun/ugv_ws/build/apriltag
+[2.160s] Invoked command in '/home/chotaehyun/ugv_ws/build/apriltag' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake /home/chotaehyun/ugv_ws/src/ugv_else/apriltag_ros/apriltag -DCMAKE_INSTALL_PREFIX=/home/chotaehyun/ugv_ws/install/apriltag
+[2.163s] Invoking command in '/home/chotaehyun/ugv_ws/build/apriltag': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/apriltag -- -j16 -l16
+[3.681s] [  2%] [34m[1mGenerating apriltag_detect_docstring.h, apriltag_detect_docstring.cxx[0m
+[3.682s] [  4%] [34m[1mGenerating apriltag_py_type_docstring.h, apriltag_py_type_docstring.cxx[0m
+[3.682s] [  7%] [32mBuilding C object CMakeFiles/apriltag.dir/apriltag_pose.c.o[0m
+[3.684s] [  9%] [32mBuilding C object CMakeFiles/apriltag.dir/apriltag.c.o[0m
+[3.685s] [ 12%] [32mBuilding C object CMakeFiles/apriltag.dir/apriltag_quad_thresh.c.o[0m
+[3.685s] [ 14%] [32mBuilding C object CMakeFiles/apriltag.dir/common/homography.c.o[0m
+[3.685s] [ 17%] [32mBuilding C object CMakeFiles/apriltag.dir/common/getopt.c.o[0m
+[3.685s] [ 19%] [32mBuilding C object CMakeFiles/apriltag.dir/common/g2d.c.o[0m
+[3.685s] [ 21%] [32mBuilding C object CMakeFiles/apriltag.dir/common/image_u8x3.c.o[0m
+[3.685s] [ 24%] [32mBuilding C object CMakeFiles/apriltag.dir/common/image_u8.c.o[0m
+[3.685s] [ 26%] [32mBuilding C object CMakeFiles/apriltag.dir/common/pam.c.o[0m
+[3.685s] [ 29%] [32mBuilding C object CMakeFiles/apriltag.dir/common/pjpeg-idct.c.o[0m
+[3.685s] [ 31%] [32mBuilding C object CMakeFiles/apriltag.dir/common/image_u8x4.c.o[0m
+[3.685s] [ 34%] [32mBuilding C object CMakeFiles/apriltag.dir/common/matd.c.o[0m
+[3.685s] [ 36%] [32mBuilding C object CMakeFiles/apriltag.dir/common/pjpeg.c.o[0m
+[3.685s] [ 39%] [32mBuilding C object CMakeFiles/apriltag.dir/common/pnm.c.o[0m
+[3.685s] [ 41%] Built target apriltag_py_docstrings
+[3.685s] [ 41%] [32mBuilding C object CMakeFiles/apriltag.dir/common/pthreads_cross.c.o[0m
+[3.686s] [ 43%] [32mBuilding C object CMakeFiles/apriltag.dir/common/string_util.c.o[0m
+[3.686s] [ 46%] [32mBuilding C object CMakeFiles/apriltag.dir/common/svd22.c.o[0m
+[3.686s] [ 48%] [32mBuilding C object CMakeFiles/apriltag.dir/common/time_util.c.o[0m
+[3.686s] [ 51%] [32mBuilding C object CMakeFiles/apriltag.dir/common/unionfind.c.o[0m
+[3.686s] [ 53%] [32mBuilding C object CMakeFiles/apriltag.dir/common/workerpool.c.o[0m
+[3.686s] [ 56%] [32mBuilding C object CMakeFiles/apriltag.dir/common/zarray.c.o[0m
+[3.686s] [ 58%] [32mBuilding C object CMakeFiles/apriltag.dir/common/zhash.c.o[0m
+[3.686s] [ 60%] [32mBuilding C object CMakeFiles/apriltag.dir/common/zmaxheap.c.o[0m
+[3.686s] [ 63%] [32mBuilding C object CMakeFiles/apriltag.dir/tag16h5.c.o[0m
+[3.686s] [ 65%] [32mBuilding C object CMakeFiles/apriltag.dir/tag25h9.c.o[0m
+[3.686s] [ 68%] [32mBuilding C object CMakeFiles/apriltag.dir/tag36h10.c.o[0m
+[3.686s] [ 70%] [32mBuilding C object CMakeFiles/apriltag.dir/tag36h11.c.o[0m
+[3.686s] [ 73%] [32mBuilding C object CMakeFiles/apriltag.dir/tagCircle21h7.c.o[0m
+[3.686s] [ 75%] [32mBuilding C object CMakeFiles/apriltag.dir/tagCustom48h12.c.o[0m
+[3.687s] [ 78%] [32mBuilding C object CMakeFiles/apriltag.dir/tagCircle49h12.c.o[0m
+[3.687s] [ 80%] [32mBuilding C object CMakeFiles/apriltag.dir/tagStandard41h12.c.o[0m
+[3.687s] [ 82%] [32mBuilding C object CMakeFiles/apriltag.dir/tagStandard52h13.c.o[0m
+[5.090s] [ 85%] [32m[1mLinking C shared library libapriltag.so[0m
+[5.548s] [ 85%] Built target apriltag
+[5.695s] [ 87%] [32mBuilding C object CMakeFiles/apriltag_demo.dir/example/apriltag_demo.c.o[0m
+[5.703s] [ 90%] [32mBuilding CXX object CMakeFiles/opencv_demo.dir/example/opencv_demo.cc.o[0m
+[5.703s] [ 92%] [32mBuilding C object CMakeFiles/apriltag.cpython-310-x86_64-linux-gnu.dir/apriltag_pywrap.c.o[0m
+[6.345s] [ 95%] [32m[1mLinking C executable apriltag_demo[0m
+[6.568s] [ 97%] [32m[1mLinking C shared module apriltag.cpython-310-x86_64-linux-gnu.so[0m
+[6.600s] [ 97%] Built target apriltag_demo
+[6.855s] [ 97%] Built target apriltag.cpython-310-x86_64-linux-gnu
+[12.790s] [100%] [32m[1mLinking CXX executable opencv_demo[0m
+[14.749s] [100%] Built target opencv_demo
+[14.867s] Invoked command in '/home/chotaehyun/ugv_ws/build/apriltag' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/apriltag -- -j16 -l16
+[14.868s] Invoking command in '/home/chotaehyun/ugv_ws/build/apriltag': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/apriltag
+[15.484s] -- Install configuration: "Release"
+[15.484s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/apriltag.h
+[15.484s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/apriltag_math.h
+[15.484s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/apriltag_pose.h
+[15.484s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/debug_print.h
+[15.484s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/doubles.h
+[15.484s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/doubles_floats_impl.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/floats.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/g2d.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/getopt.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/homography.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/image_types.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/image_u8.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/image_u8x3.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/image_u8x4.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/matd.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/math_util.h
+[15.485s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/pam.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/pjpeg.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/pnm.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/postscript_utils.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/pthreads_cross.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/string_util.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/svd22.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/time_util.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/timeprofile.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/unionfind.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/workerpool.h
+[15.486s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/zarray.h
+[15.487s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/zhash.h
+[15.487s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/common/zmaxheap.h
+[15.498s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tag16h5.h
+[15.498s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tag25h9.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tag36h10.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tag36h11.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tagCircle21h7.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tagCircle49h12.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tagCustom48h12.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tagStandard41h12.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/include/apriltag/tagStandard52h13.h
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/lib/libapriltag.so.3.4.2
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/lib/libapriltag.so.3
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/lib/libapriltag.so
+[15.499s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/share/apriltag/cmake/apriltagTargets.cmake
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/share/apriltag/cmake/apriltagTargets-release.cmake
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/share/apriltag/cmake/apriltagConfig.cmake
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/share/apriltag/cmake/apriltagConfigVersion.cmake
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/lib/pkgconfig/apriltag.pc
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/lib/python3.10/site-packages/apriltag.cpython-310-x86_64-linux-gnu.so
+[15.500s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/apriltag/lib/python3.10/site-packages/apriltag.cpython-310-x86_64-linux-gnu.so" to ""
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/bin/opencv_demo
+[15.500s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/apriltag/bin/opencv_demo" to ""
+[15.500s] -- Installing: /home/chotaehyun/ugv_ws/install/apriltag/bin/apriltag_demo
+[15.500s] -- Set runtime path of "/home/chotaehyun/ugv_ws/install/apriltag/bin/apriltag_demo" to ""
+[15.517s] Invoked command in '/home/chotaehyun/ugv_ws/build/apriltag' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/apriltag

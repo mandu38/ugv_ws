@@ -1,0 +1,25 @@
+[0.748s] Invoking command in '/home/chotaehyun/ugv_ws/build/rf2o_laser_odometry': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/rf2o_laser_odometry -- -j16 -l16
+[1.488s] [ 40%] Built target rf2o_laser_odometry
+[1.488s] [100%] Built target rf2o_laser_odometry_node
+[1.532s] Invoked command in '/home/chotaehyun/ugv_ws/build/rf2o_laser_odometry' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/rf2o_laser_odometry -- -j16 -l16
+[1.535s] Invoking command in '/home/chotaehyun/ugv_ws/build/rf2o_laser_odometry': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/rf2o_laser_odometry
+[1.637s] -- Install configuration: ""
+[1.637s] -- Execute custom install script
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/lib/rf2o_laser_odometry/rf2o_laser_odometry_node
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/launch/rf2o_laser_odometry.launch.py
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/ament_index/resource_index/package_run_dependencies/rf2o_laser_odometry
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/ament_index/resource_index/parent_prefix_path/rf2o_laser_odometry
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/environment/ament_prefix_path.sh
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/environment/ament_prefix_path.dsv
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/environment/path.sh
+[1.637s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/environment/path.dsv
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/local_setup.bash
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/local_setup.sh
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/local_setup.zsh
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/local_setup.dsv
+[1.638s] -- Symlinking: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/package.dsv
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/ament_index/resource_index/packages/rf2o_laser_odometry
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/cmake/rf2o_laser_odometryConfig.cmake
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/cmake/rf2o_laser_odometryConfig-version.cmake
+[1.638s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/rf2o_laser_odometry/share/rf2o_laser_odometry/package.xml
+[1.830s] Invoked command in '/home/chotaehyun/ugv_ws/build/rf2o_laser_odometry' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/rf2o_laser_odometry

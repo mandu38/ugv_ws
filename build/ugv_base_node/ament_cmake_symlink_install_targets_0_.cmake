@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/chotaehyun/ugv_ws/build/ugv_base_node/base_node" "/home/chotaehyun/ugv_ws/build/ugv_base_node/base_node_ekf" "TARGETS" "base_node" "base_node_ekf" "DESTINATION" "lib/ugv_base_node")

@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from vizanti_msgs/srv/ManageLaunch.srv
+// generated code does not contain a copyright notice
+
+
+module vizanti_msgs {
+  module srv {
+    struct ManageLaunch_Request {
+      string launch;
+    };
+    struct ManageLaunch_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

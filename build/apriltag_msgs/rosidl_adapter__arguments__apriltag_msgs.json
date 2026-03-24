@@ -1,0 +1,7 @@
+{
+  "package_name": "apriltag_msgs",
+  "non_idl_tuples": [
+    "/home/chotaehyun/ugv_ws/src/ugv_else/apriltag_ros/apriltag_msgs:msg/AprilTagDetectionArray.msg",
+    "/home/chotaehyun/ugv_ws/src/ugv_else/apriltag_ros/apriltag_msgs:msg/AprilTagDetection.msg"
+  ]
+}

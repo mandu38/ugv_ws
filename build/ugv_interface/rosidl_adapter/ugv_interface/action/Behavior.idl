@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from ugv_interface/action/Behavior.action
+// generated code does not contain a copyright notice
+
+
+module ugv_interface {
+  module action {
+    struct Behavior_Goal {
+      string command;
+    };
+    struct Behavior_Result {
+      boolean result;
+    };
+    struct Behavior_Feedback {
+      boolean feedback;
+    };
+  };
+};

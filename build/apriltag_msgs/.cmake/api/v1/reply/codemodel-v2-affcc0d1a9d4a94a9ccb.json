@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-7cb1a70b25df1cdd1cb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "apriltag_msgs__py",
+					"jsonFile" : "directory-apriltag_msgs__py-a75bc6d58b4286e64a5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/chotaehyun/ugv_ws/build/apriltag_msgs/apriltag_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "apriltag_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_apriltag_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_apriltag_msgs_egg-71789b8a2e8f534e2487.json",
+					"name" : "ament_cmake_python_build_apriltag_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_apriltag_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_apriltag_msgs-7b655ed066a3999be4f1.json",
+					"name" : "ament_cmake_python_symlink_apriltag_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs-b58e98711e2f9d8f8615.json",
+					"name" : "apriltag_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__cpp-cf7a6da5502c4f98eb91.json",
+					"name" : "apriltag_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "apriltag_msgs__py::@510b018b8d6a2faafb2f",
+					"jsonFile" : "target-apriltag_msgs__py-cf14d65ef7baf24898a8.json",
+					"name" : "apriltag_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_generator_c-7353c51edaed3931bb8b.json",
+					"name" : "apriltag_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_generator_py-b17ff21312303eae535a.json",
+					"name" : "apriltag_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_c-4c1004524ac6218f58ec.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_c__pyext-141b9bfa6331394ce4af.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_cpp-f1d7f589a41fa60426ed.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_fastrtps_c-a372c9c77d82487ee1f8.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_fastrtps_c__pyext-ef35988490b98081622d.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_fastrtps_cpp-8021c725e1eaba477dca.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_introspection_c-e41e1d366d26d02bf11d.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_introspection_c__pyext-63ebf824116949144c63.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs__rosidl_typesupport_introspection_cpp-faf57022634e46126e70.json",
+					"name" : "apriltag_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apriltag_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apriltag_msgs_uninstall-d845b0816c05e66801a6.json",
+					"name" : "apriltag_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-995618c88f31fa9a6b2c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/chotaehyun/ugv_ws/build/apriltag_msgs",
+		"source" : "/home/chotaehyun/ugv_ws/src/ugv_else/apriltag_ros/apriltag_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

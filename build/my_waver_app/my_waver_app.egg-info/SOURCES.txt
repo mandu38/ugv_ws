@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+config/patrol_points.yaml
+launch/patrol.launch.py
+my_waver_app/__init__.py
+my_waver_app/patrol_waypoint_node.py
+my_waver_app.egg-info/PKG-INFO
+my_waver_app.egg-info/SOURCES.txt
+my_waver_app.egg-info/dependency_links.txt
+my_waver_app.egg-info/entry_points.txt
+my_waver_app.egg-info/requires.txt
+my_waver_app.egg-info/top_level.txt
+my_waver_app.egg-info/zip-safe
+resource/my_waver_app

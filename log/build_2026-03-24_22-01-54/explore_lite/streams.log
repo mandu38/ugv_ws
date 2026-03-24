@@ -1,0 +1,34 @@
+[0.107s] Invoking command in '/home/chotaehyun/ugv_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/explore_lite -- -j16 -l16
+[1.437s] [ 20%] Built target gtest_main
+[1.437s] [ 40%] Built target gtest
+[1.437s] [ 80%] Built target explore
+[1.437s] [100%] Built target test_explore
+[1.458s] Invoked command in '/home/chotaehyun/ugv_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/explore_lite -- -j16 -l16
+[1.459s] Invoking command in '/home/chotaehyun/ugv_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/explore_lite
+[1.504s] -- Install configuration: ""
+[1.509s] -- Execute custom install script
+[1.510s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/include/explore//costmap_client.h
+[1.510s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/include/explore//costmap_tools.h
+[1.512s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/include/explore//explore.h
+[1.512s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/include/explore//frontier_search.h
+[1.512s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/config/params.yaml
+[1.512s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/config/params_costmap.yaml
+[1.512s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/launch/explore.launch.py
+[1.512s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/lib/explore_lite/explore
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/ament_index/resource_index/package_run_dependencies/explore_lite
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/ament_index/resource_index/parent_prefix_path/explore_lite
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/environment/ament_prefix_path.sh
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/environment/ament_prefix_path.dsv
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/environment/path.sh
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/environment/path.dsv
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/local_setup.bash
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/local_setup.sh
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/local_setup.zsh
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/local_setup.dsv
+[1.513s] -- Symlinking: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/package.dsv
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/ament_index/resource_index/packages/explore_lite
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/cmake/explore_liteConfig.cmake
+[1.513s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/cmake/explore_liteConfig-version.cmake
+[1.514s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/explore_lite/share/explore_lite/package.xml
+[1.640s] Invoked command in '/home/chotaehyun/ugv_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/explore_lite

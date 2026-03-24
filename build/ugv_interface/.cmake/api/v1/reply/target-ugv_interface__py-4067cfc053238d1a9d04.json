@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/chotaehyun/ugv_ws/build/ugv_interface/ugv_interface__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ugv_interface::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ugv_interface__py::@035e0173533abaa13f3b",
+	"name" : "ugv_interface__py",
+	"paths" : 
+	{
+		"build" : "ugv_interface__py",
+		"source" : "/home/chotaehyun/ugv_ws/build/ugv_interface/ugv_interface__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/chotaehyun/ugv_ws/build/ugv_interface/ugv_interface__py/CMakeFiles/ugv_interface__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/chotaehyun/ugv_ws/build/ugv_interface/ugv_interface__py/CMakeFiles/ugv_interface__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/chotaehyun/ugv_ws/build/ugv_interface/rosidl_generator_py/ugv_interface/_ugv_interface_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

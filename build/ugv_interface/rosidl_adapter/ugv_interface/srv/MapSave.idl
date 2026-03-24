@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ugv_interface/srv/MapSave.srv
+// generated code does not contain a copyright notice
+
+
+module ugv_interface {
+  module srv {
+    struct MapSave_Request {
+      string mapname;
+    };
+    struct MapSave_Response {
+      string response;
+    };
+  };
+};

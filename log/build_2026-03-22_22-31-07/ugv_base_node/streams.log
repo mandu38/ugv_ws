@@ -1,0 +1,25 @@
+[0.526s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_base_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_base_node -- -j16 -l16
+[1.166s] [ 50%] Built target base_node_ekf
+[1.166s] [100%] Built target base_node
+[1.192s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_base_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_base_node -- -j16 -l16
+[1.195s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_base_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_base_node
+[1.254s] -- Install configuration: ""
+[1.254s] -- Execute custom install script
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/lib/ugv_base_node/base_node
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/lib/ugv_base_node/base_node_ekf
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ament_index/resource_index/package_run_dependencies/ugv_base_node
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ament_index/resource_index/parent_prefix_path/ugv_base_node
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/ament_prefix_path.sh
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/ament_prefix_path.dsv
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/path.sh
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/environment/path.dsv
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.bash
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.sh
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.zsh
+[1.255s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/local_setup.dsv
+[1.255s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/package.dsv
+[1.264s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ament_index/resource_index/packages/ugv_base_node
+[1.265s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/cmake/ugv_base_nodeConfig.cmake
+[1.265s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/cmake/ugv_base_nodeConfig-version.cmake
+[1.265s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_base_node/share/ugv_base_node/package.xml
+[1.468s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_base_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_base_node

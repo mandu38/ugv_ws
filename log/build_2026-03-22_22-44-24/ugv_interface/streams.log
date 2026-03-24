@@ -1,0 +1,143 @@
+[0.213s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_interface -- -j16 -l16
+[0.288s] [  2%] Built target ugv_interface__cpp
+[0.291s] [ 12%] Built target ugv_interface__rosidl_generator_c
+[0.301s] [ 12%] Built target ament_cmake_python_symlink_ugv_interface
+[0.322s] [ 61%] Built target ugv_interface__rosidl_typesupport_cpp
+[0.322s] [ 61%] Built target ugv_interface__rosidl_typesupport_introspection_c
+[0.322s] [ 66%] Built target ugv_interface__rosidl_typesupport_fastrtps_cpp
+[0.322s] [ 74%] Built target ugv_interface__rosidl_typesupport_c
+[0.322s] [ 74%] Built target ugv_interface__rosidl_typesupport_fastrtps_c
+[0.322s] [ 74%] Built target ugv_interface__rosidl_typesupport_introspection_cpp
+[0.352s] [ 74%] Built target ugv_interface
+[0.379s] [ 76%] Built target ugv_interface__py
+[0.408s] [ 84%] Built target ugv_interface__rosidl_generator_py
+[0.444s] [ 89%] Built target ugv_interface__rosidl_typesupport_c__pyext
+[0.447s] [ 94%] Built target ugv_interface__rosidl_typesupport_introspection_c__pyext
+[0.453s] [100%] Built target ugv_interface__rosidl_typesupport_fastrtps_c__pyext
+[0.571s] running egg_info
+[0.572s] writing ugv_interface.egg-info/PKG-INFO
+[0.572s] writing dependency_links to ugv_interface.egg-info/dependency_links.txt
+[0.572s] writing top-level names to ugv_interface.egg-info/top_level.txt
+[0.574s] reading manifest file 'ugv_interface.egg-info/SOURCES.txt'
+[0.575s] writing manifest file 'ugv_interface.egg-info/SOURCES.txt'
+[0.621s] [100%] Built target ament_cmake_python_build_ugv_interface_egg
+[1.148s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/ugv_interface -- -j16 -l16
+[1.150s] Invoking command in '/home/chotaehyun/ugv_ws/build/ugv_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_interface
+[1.204s] -- Install configuration: ""
+[1.205s] -- Execute custom install script
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ament_index/resource_index/rosidl_interfaces/ugv_interface
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/behavior.h
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__functions.h
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__struct.h
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__type_support.h
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/msg/rosidl_generator_c__visibility_control.h
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__functions.h
+[1.205s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__struct.h
+[1.206s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__type_support.h
+[1.206s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/map_save.h
+[1.206s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/library_path.sh
+[1.206s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/library_path.dsv
+[1.207s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__rosidl_typesupport_fastrtps_c.h
+[1.210s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__rosidl_typesupport_fastrtps_c.h
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__rosidl_typesupport_introspection_c.h
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__rosidl_typesupport_introspection_c.h
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/behavior.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__builder.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__struct.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__traits.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__type_support.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__builder.hpp
+[1.211s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__struct.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__traits.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__type_support.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/map_save.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__rosidl_typesupport_fastrtps_cpp.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__rosidl_typesupport_fastrtps_cpp.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/action/detail/behavior__rosidl_typesupport_introspection_cpp.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/include/ugv_interface/ugv_interface/srv/detail/map_save__rosidl_typesupport_introspection_cpp.hpp
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/pythonpath.sh
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/pythonpath.dsv
+[1.212s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface-0.0.0-py3.10.egg-info/top_level.txt
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/__init__.py
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/_ugv_interface_s.ep.rosidl_typesupport_c.c
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/_ugv_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/_ugv_interface_s.ep.rosidl_typesupport_introspection_c.c
+[1.213s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/action/__init__.py
+[1.216s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/action/_behavior.py
+[1.216s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/action/_behavior_s.c
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/libugv_interface__rosidl_generator_py.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/srv/__init__.py
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/srv/_map_save.py
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/srv/_map_save_s.c
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/ugv_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/ugv_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/ugv_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/ugv_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/ugv_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/ugv_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.217s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/srv/MapSave.idl
+[1.218s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/action/Behavior.idl
+[1.218s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/srv/MapSave.srv
+[1.218s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/srv/MapSave_Request.msg
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/srv/MapSave_Response.msg
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/action/Behavior.action
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/srv/MapSave.srv
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/action/Behavior.action
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ament_index/resource_index/package_run_dependencies/ugv_interface
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ament_index/resource_index/parent_prefix_path/ugv_interface
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/ament_prefix_path.sh
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/ament_prefix_path.dsv
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/path.sh
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/environment/path.dsv
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/local_setup.bash
+[1.219s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/local_setup.sh
+[1.220s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/local_setup.zsh
+[1.220s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/local_setup.dsv
+[1.220s] -- Symlinking: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/package.dsv
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ament_index/resource_index/packages/ugv_interface
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/rosidl_cmake-extras.cmake
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.231s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[1.232s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ament_cmake_export_targets-extras.cmake
+[1.232s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.234s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.234s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interfaceConfig.cmake
+[1.236s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interfaceConfig-version.cmake
+[1.236s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/package.xml
+[1.236s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_generator_c.so
+[1.236s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_typesupport_fastrtps_c.so
+[1.236s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_typesupport_introspection_c.so
+[1.236s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_typesupport_c.so
+[1.236s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_typesupport_fastrtps_cpp.so
+[1.237s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_typesupport_introspection_cpp.so
+[1.237s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_typesupport_cpp.so
+[1.292s] Listing '/home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface'...
+[1.293s] Listing '/home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/action'...
+[1.293s] Listing '/home/chotaehyun/ugv_ws/install/ugv_interface/local/lib/python3.10/dist-packages/ugv_interface/srv'...
+[1.307s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/lib/libugv_interface__rosidl_generator_py.so
+[1.307s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_generator_cExport.cmake
+[1.308s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_generator_cExport-noconfig.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_introspection_cExport.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_cExport.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_cExport-noconfig.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_generator_cppExport.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.309s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.310s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_introspection_cppExport.cmake
+[1.310s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.311s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_cppExport.cmake
+[1.313s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/ugv_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[1.313s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_generator_pyExport.cmake
+[1.313s] -- Up-to-date: /home/chotaehyun/ugv_ws/install/ugv_interface/share/ugv_interface/cmake/export_ugv_interface__rosidl_generator_pyExport-noconfig.cmake
+[1.353s] Invoked command in '/home/chotaehyun/ugv_ws/build/ugv_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ugv_ws/install/my_waver_app:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/ugv_interface

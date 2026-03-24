@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating ugv_tools.egg-info
+writing ugv_tools.egg-info/PKG-INFO
+writing dependency_links to ugv_tools.egg-info/dependency_links.txt
+writing entry points to ugv_tools.egg-info/entry_points.txt
+writing requirements to ugv_tools.egg-info/requires.txt
+writing top-level names to ugv_tools.egg-info/top_level.txt
+writing manifest file 'ugv_tools.egg-info/SOURCES.txt'
+reading manifest file 'ugv_tools.egg-info/SOURCES.txt'
+writing manifest file 'ugv_tools.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/chotaehyun/ugv_ws/install/ugv_tools/lib/python3.10/site-packages/ugv-tools.egg-link (link to .)
+Installing behavior_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_tools/lib/ugv_tools
+Installing joy_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_tools/lib/ugv_tools
+Installing keyboard_ctrl script to /home/chotaehyun/ugv_ws/install/ugv_tools/lib/ugv_tools
+
+Installed /home/chotaehyun/ugv_ws/build/ugv_tools
+running symlink_data
+creating /home/chotaehyun/ugv_ws/install/ugv_tools/share/ament_index
+creating /home/chotaehyun/ugv_ws/install/ugv_tools/share/ament_index/resource_index
+creating /home/chotaehyun/ugv_ws/install/ugv_tools/share/ament_index/resource_index/packages
+symbolically linking /home/chotaehyun/ugv_ws/build/ugv_tools/resource/ugv_tools -> /home/chotaehyun/ugv_ws/install/ugv_tools/share/ament_index/resource_index/packages
+symbolically linking /home/chotaehyun/ugv_ws/build/ugv_tools/package.xml -> /home/chotaehyun/ugv_ws/install/ugv_tools/share/ugv_tools
+creating /home/chotaehyun/ugv_ws/install/ugv_tools/share/ugv_tools/launch
+symbolically linking /home/chotaehyun/ugv_ws/build/ugv_tools/launch/teleop_twist_joy.launch.py -> /home/chotaehyun/ugv_ws/install/ugv_tools/share/ugv_tools/launch

@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing ugv_web_app.egg-info/PKG-INFO
+writing dependency_links to ugv_web_app.egg-info/dependency_links.txt
+writing entry points to ugv_web_app.egg-info/entry_points.txt
+writing requirements to ugv_web_app.egg-info/requires.txt
+writing top-level names to ugv_web_app.egg-info/top_level.txt
+reading manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+writing manifest file 'ugv_web_app.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/chotaehyun/ugv_ws/install/ugv_web_app/lib/python3.10/site-packages/ugv-web-app.egg-link (link to .)
+
+Installed /home/chotaehyun/ugv_ws/build/ugv_web_app
+running symlink_data

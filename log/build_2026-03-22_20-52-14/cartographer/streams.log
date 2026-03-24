@@ -1,0 +1,26 @@
+[0.091s] Invoking command in '/home/chotaehyun/ugv_ws/build/cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/cartographer -- -j16 -l16
+[0.865s] Invoked command in '/home/chotaehyun/ugv_ws/build/cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/chotaehyun/ugv_ws/build/cartographer -- -j16 -l16
+[0.876s] Invoking command in '/home/chotaehyun/ugv_ws/build/cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/cartographer
+[0.916s] -- Install configuration: ""
+[0.916s] -- Execute custom install script
+[0.916s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/config/localization_2d.lua
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/config/mapping_2d.lua
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/launch/localization.launch.py
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/launch/mapping.launch.py
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/launch/occupancy_grid.launch.py
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/ament_index/resource_index/package_run_dependencies/cartographer
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/ament_index/resource_index/parent_prefix_path/cartographer
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/environment/ament_prefix_path.sh
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/environment/ament_prefix_path.dsv
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/environment/path.sh
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/environment/path.dsv
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/local_setup.bash
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/local_setup.sh
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/local_setup.zsh
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/local_setup.dsv
+[0.917s] -- Symlinking: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/package.dsv
+[0.917s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/ament_index/resource_index/packages/cartographer
+[0.918s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/cmake/cartographerConfig.cmake
+[0.918s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/cmake/cartographerConfig-version.cmake
+[0.918s] -- Up-to-date symlink: /home/chotaehyun/ugv_ws/install/cartographer/share/cartographer/package.xml
+[0.979s] Invoked command in '/home/chotaehyun/ugv_ws/build/cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chotaehyun/ugv_ws/install/ugv_web_app:/home/chotaehyun/ugv_ws/install/ugv_vision:/home/chotaehyun/ugv_ws/install/ugv_tools:/home/chotaehyun/ugv_ws/install/ugv_chat_ai:/home/chotaehyun/ugv_ws/install/ugv_bringup:/home/chotaehyun/ros2_ws/install/vehicle_control_pkg:/opt/ros/humble /usr/bin/cmake --install /home/chotaehyun/ugv_ws/build/cartographer
